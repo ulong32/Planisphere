@@ -1,0 +1,144 @@
+[
+    {
+        "label": "Senju_Koyomi",
+        "name": {
+            "ja": "千寿暦",
+            "en": "Senju Koyomi"
+        },
+        "nameKana": "せんじゅこよみ",
+        "familyName": {
+            "ja": "千寿",
+            "en": "Senju"
+        },
+        "familyNameKana": "せんじゅ",
+        "givenName": {
+            "ja":"暦",
+            "en": "Koyomi"
+        },
+        "givenNameKana": "こよみ",
+        "age": 17,
+        "birthday": null,
+        "grade": 12,
+        "birthPlace": null,
+        "troupe": "銀河座",
+        "sense": null,
+        "senseRuby": null,
+        "cast": "Toribe_Mariko"
+    },
+    {
+        "label": "Ramona_Wolf",
+        "name": {
+            "ja": "ラモーナ・ウォルフ",
+            "en": "Ramona Wolf"
+        },
+        "nameKana": "らもーな・うぉるふ",
+        "familyName": {
+            "ja": "ラモーナ",
+            "en": "Ramona"
+        },
+        "familyNameKana": "らもーな",
+        "givenName": {
+            "ja": "ウォルフ",
+            "en": "Wolf"
+        },
+        "givenNameKana": "うぉるふ",
+        "age": 17,
+        "birthday": null,
+        "grade": 12,
+        "birthPlace": {
+            "ja": "ドイツ",
+            "en": "Germany"
+        },
+        "troupe": "銀河座",
+        "sense": null,
+        "senseRuby": null,
+        "cast": "Tanaka_Minami"
+    },
+    {
+        "label": "Wang_Xui",
+        "name": {
+            "ja": "王雪",
+            "en": "Wang Xue"
+        },
+        "nameKana": "わんしゅえ",
+        "familyName": {
+            "ja": "王",
+            "en": "Wang"
+        },
+        "familyNameKana": "わん",
+        "givenName": {
+            "ja": "雪",
+            "en": "Xue"
+        },
+        "givenNameKana": "しゅえ",
+        "age": 15,
+        "birthday": null,
+        "grade": 10,
+        "birthPlace": {
+            "ja": "中国",
+            "en": "China"
+        },
+        "troupe": "銀河座",
+        "sense": null,
+        "senseRuby": null,
+        "cast": "Hanai_Miharu"
+    },
+    {
+        "label": "Lilja_Kurtbay",
+        "name": {
+            "ja": "リリヤ・クルトベイ",
+            "en": "Lilja Kurtbay"
+        },
+        "nameKana": "りりや・くるとべい",
+        "familyName": {
+            "ja": "クルトベイ",
+            "en": "Kurtbay"
+        },
+        "familyNameKana": "くるとべい",
+        "givenName": {
+            "ja": "リリヤ",
+            "en": "Lilja"
+        },
+        "givenNameKana": "りりや",
+        "age": 17,
+        "birthday": null,
+        "grade": 12,
+        "birthPlace": {
+            "ja": "フィンランド",
+            "en": "Finland"
+        },
+        "troupe": "銀河座",
+        "sense": null,
+        "senseRuby": "null",
+        "cast": "Anzai_Yukari"
+    },
+    {
+        "label": "Yonaguni_Hikari",
+        "name": {
+            "ja": "与那国緋花里",
+            "en": "Yonaguni Hikari"
+        },
+        "nameKana": "よなぐにひかり",
+        "familyName": {
+            "ja": "与那国",
+            "en": "Yonaguni"
+        },
+        "familyNameKana": "よなぐに",
+        "givenName": {
+            "ja": "緋花里",
+            "en": "Hikari"
+        },
+        "givenNameKana": "ひかり",
+        "age": 15,
+        "birthday": null,
+        "grade":10,
+        "birthPlace": {
+            "ja":"沖縄県",
+            "en": "Okinawa"
+        },
+        "troupe": "銀河座",
+        "sense": null,
+        "senseRuby": null,
+        "cast": "Shimoji_Shino"
+    }
+]

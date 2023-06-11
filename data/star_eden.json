@@ -1,0 +1,134 @@
+[
+    {
+        "label":"Renjakuno_Hatsumi",
+        "name": {
+            "ja": "連尺野初魅",
+            "en": "Renjakuno Hatsumi"
+        },
+        "nameKana": "れんじゃくのはつみ",
+        "familyName": {
+            "ja": "連尺野",
+            "en": "Renjakuno"
+        },
+        "familyNameKana": "れんじゃくの",
+        "givenName": {
+            "ja": "初魅",
+            "en": "Hatsumi"
+        },
+        "givenNameKana": "はつみ",
+        "age": 20,
+        "birthday": null,
+        "grade": null,
+        "birthPlace": null,
+        "troupe": "Eden",
+        "sense": null,
+        "senseRuby": null,
+        "cast": "Aoi_Kana"
+    },
+    {
+        "label": "Karasumori_Daikoku",
+        "name": {
+            "ja": "烏森大黒",
+            "en": "Karasumori Daikoku"
+        },
+        "nameKana": "からすもりだいこく",
+        "familyName": {
+            "ja": "烏森",
+            "en": "Karasumori"
+        },
+        "familyNameKana": "からすもり",
+        "givenName": {
+            "ja": "大黒",
+            "en":"Daikoku"
+        },
+        "givenNameKana": "だいこく",
+        "age": 13,
+        "birthday": null,
+        "grade": 8,
+        "birthPlace": null,
+        "troupe": "Eden",
+        "sense": null,
+        "senseRuby": null,
+        "cast": "Lynn"
+    },
+    {
+        "label": "Toneri_Nikako",
+        "name": {
+            "ja": "舎人仁花子",
+            "en": "Toneri Nikako"
+        },
+        "nameKana": "とねりにかこ",
+        "familyName": {
+            "ja": "舎人",
+            "en": "Toneri"
+        },
+        "familyNameKana": "とねり",
+        "givenName": {
+            "ja": "仁花子",
+            "en": "Nikako"
+        },
+        "age": 15,
+        "birthday": null,
+        "grade": 10,
+        "birthPlace": {
+            "ja": "青ヶ島",
+            "en": "Aogashima, Tokyo"
+        },
+        "troupe": "Eden",
+        "sense": null,
+        "senseRuby": null,
+        "cast": "Saitou_Shuka"
+    },
+    {
+        "label": "Yorozu_Iruru",
+        "name": {
+            "ja": "萬容",
+            "en": "Yorozu Iruru"
+        },
+        "nameKana": "よろずいるる",
+        "familyName": {
+            "ja": "萬",
+            "en": "Yorozu"
+        },
+        "familyNameKana": "よろず",
+        "givenName": {
+            "ja": "容",
+            "en": "Iruru"
+        },
+        "givenNameKana": "いるる",
+        "age": 17,
+        "birthday": null,
+        "grade": 12,
+        "birthPlace": null,
+        "troupe": "Eden",
+        "sense": null,
+        "senseRuby": null,
+        "cast": "Yamamura_Hibiku"
+    },
+    {
+        "label": "Fudeshima_Shigure",
+        "name": {
+            "ja": "筆島しぐれ",
+            "en": "Fudeshima Shigure"
+        },
+        "nameKana": "ふでしましぐれ",
+        "familyName": {
+            "ja": "筆島",
+            "en": "Fudeshima"
+        },
+        "familyNameKana": "ふでしま",
+        "givenName": {
+            "ja": "しぐれ",
+            "en": "Shigure"
+        },
+        "givenNameKana": "しぐれ",
+        "age": 10,
+        "birthday": null,
+        "grade": 5,
+        "birthPlace": null,
+        "troupe": "Eden",
+        "sense": null,
+        "senseRuby": null,
+        "cast": "Yoshioka_Maya"
+    }
+]

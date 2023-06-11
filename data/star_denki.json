@@ -1,0 +1,138 @@
+[
+    {
+        "label": "Senju_Iroha",
+        "name": {
+            "ja": "千寿いろは",
+            "en": "Senju Iroha"
+        },
+        "nameKana": "せんじゅいろは",
+        "familyName": {
+            "ja": "千寿",
+            "en" :"Senju"
+        },
+        "familyNameKana": "せんじゅ",
+        "givenName": {
+            "ja": "いろは",
+            "en": "Iroha"
+        },
+        "givenNameKana": "いろは",
+        "age": 16,
+        "birthday": null,
+        "grade": 11,
+        "birthPlace": null,
+        "troupe": "劇団電姫",
+        "sense": null,
+        "senseRuby": null,
+        "cast": "Okasaki_Miho"
+    },
+    {
+        "label": "Shiromaru_Mito",
+        "name": {
+            "ja": "白丸美兎",
+            "en": "Shiromaru Mito"
+        },
+        "nameKana": "しろまるみと",
+        "familyName": {
+            "ja": "白丸",
+            "en": "Shiromaru"
+        },
+        "familyNameKana": "しろまる",
+        "givenName": {
+            "ja": "美兎",
+            "en": "Mito"
+        },
+        "givenNameKana": "みと",
+        "age": 16,
+        "birthday": null,
+        "grade": 11,
+        "birthPlace": {
+            "ja": "秋葉原",
+            "en": "Akihabara, Tokyo"
+        },
+        "troupe": "劇団電姫",
+        "sense": null,
+        "senseRuby": null,
+        "cast": "Kondou_Reina"
+    },
+    {
+        "label": "Akiru_Kamira",
+        "name": {
+            "ja": "阿岐留カミラ",
+            "en": "Akiru Kamira"
+        },
+        "nameKana": "あきるかみら",
+        "familyName": {
+            "ja": "阿岐留",
+            "en": "Akiru"
+        },
+        "familyNameKana": "あきる",
+        "givenName": {
+            "ja": "カミラ",
+            "en": "Kamira"
+        },
+        "givenNameKana": "かみら",
+        "age": 16,
+        "birthday": null,
+        "grade": 11,
+        "birthPlace": null,
+        "troupe": "劇団電姫",
+        "sense": null,
+        "senseRuby": null,
+        "cast": "Wakai_Yuuki"
+    },
+    {
+        "label": "Nekoashi_Tsubomi",
+        "name": {
+            "ja": "猫足蕾",
+            "en": "Nekoashi Tsubomi"
+        },
+        "nameKana": "ねこあしつぼみ",
+        "familyName": {
+            "ja": "猫足",
+            "en":"Nekoashi"
+        },
+        "familyNameKana": "ねこあし",
+        "givenName": {
+            "ja": "蕾",
+            "en": "Tsubomi"
+        },
+        "givenNameKana": "つぼみ",
+        "age": 17,
+        "birthday": null,
+        "grade": 12,
+        "birthPlace": {
+            "ja": "青森県",
+            "en": "Aomori"
+        },
+        "troupe": "劇団電姫",
+        "sense": null,
+        "senseRuby": null,
+        "cast": "Serizawa_Yu"
+    },
+    {
+        "label": "Motosu_Towa",
+        "name": {
+            "ja": "本巣叶羽",
+            "en": "Motosu Towa"
+        },
+        "nameKana": "もとすとわ",
+        "familyName": {
+            "ja": "本巣",
+            "en": "Motosu"
+        },
+        "familyNameKana": "もとす",
+        "givenName": {
+            "ja": "叶羽",
+            "en": "Towa"
+        },
+        "givenNameKana": "とわ",
+        "age": 11,
+        "birthday": null,
+        "grade": 6,
+        "birthPlace": null,
+        "troupe": "劇団電姫",
+        "sense": null,
+        "senseRuby": null,
+        "cast": "Akao_Hikaru"
+    }
+]
