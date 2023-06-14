@@ -18,6 +18,7 @@
         "givenNameKana": "こよみ",
         "age": 17,
         "birthday": null,
+        "height": null,
         "grade": 12,
         "birthPlace": null,
         "troupe": "銀河座",
@@ -44,6 +45,7 @@
         "givenNameKana": "うぉるふ",
         "age": 17,
         "birthday": null,
+        "height": null,
         "grade": 12,
         "birthPlace": {
             "ja": "ドイツ",
@@ -73,6 +75,7 @@
         "givenNameKana": "しゅえ",
         "age": 15,
         "birthday": null,
+        "height": null,
         "grade": 10,
         "birthPlace": {
             "ja": "中国",
@@ -102,6 +105,7 @@
         "givenNameKana": "りりや",
         "age": 17,
         "birthday": null,
+        "height": null,
         "grade": 12,
         "birthPlace": {
             "ja": "フィンランド",
@@ -131,6 +135,7 @@
         "givenNameKana": "ひかり",
         "age": 15,
         "birthday": null,
+        "height": null,
         "grade":10,
         "birthPlace": {
             "ja":"沖縄県",
