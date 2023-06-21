@@ -22,8 +22,8 @@
         "grade": 12,
         "birthPlace": null,
         "troupe": "銀河座",
-        "sense": null,
-        "senseRuby": null,
+        "sense": "写し鏡の美影",
+        "senseRuby": "うつしかがみのびえい",
         "cast": "Toribe_Mariko"
     },
     {
@@ -52,8 +52,8 @@
             "en": "Germany"
         },
         "troupe": "銀河座",
-        "sense": null,
-        "senseRuby": null,
+        "sense": "堅牢なる心",
+        "senseRuby": "ゾリド・ガイスト",
         "cast": "Tanaka_Minami"
     },
     {
@@ -82,8 +82,8 @@
             "en": "China"
         },
         "troupe": "銀河座",
-        "sense": null,
-        "senseRuby": null,
+        "sense": "先手必勝",
+        "senseRuby": "シェンショウビィショング",
         "cast": "Hanai_Miharu"
     },
     {
@@ -112,8 +112,8 @@
             "en": "Finland"
         },
         "troupe": "銀河座",
-        "sense": null,
-        "senseRuby": "null",
+        "sense": "蠱惑の視線",
+        "senseRuby": "ルモット・カッツェ",
         "cast": "Anzai_Yukari"
     },
     {
@@ -142,8 +142,8 @@
             "en": "Okinawa"
         },
         "troupe": "銀河座",
-        "sense": null,
-        "senseRuby": null,
+        "sense": "躍動する太陽",
+        "senseRuby": "ダイナミック・サン",
         "cast": "Shimoji_Shino"
     }
 ]
