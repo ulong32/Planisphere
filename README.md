@@ -32,6 +32,7 @@ Unofficial database for World Dai Star.
     "givenNameKana": "ここな",      //名前の仮名。
     "age": 16,                      //年齢。
     "birthday": null,               //誕生日。MM-DDで記入。
+    "height": 158,                  //身長。
     "grade": 11,                    //学年。小学校から通算した値。
     "birthPlace": null,             //出身地。日本語、英語を記入。
     "troupe": "シリウス",           //所属している劇団。
