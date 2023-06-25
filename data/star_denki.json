@@ -18,12 +18,12 @@
         "givenNameKana": "いろは",
         "age": 16,
         "birthday": null,
-        "height": null,
+        "height": 158,
         "grade": 11,
         "birthPlace": null,
         "troupe": "劇団電姫",
-        "sense": null,
-        "senseRuby": null,
+        "sense": "無し",
+        "senseRuby": "なし",
         "cast": "Okasaki_Miho"
     },
     {
@@ -45,15 +45,15 @@
         "givenNameKana": "みと",
         "age": 16,
         "birthday": null,
-        "height": null,
+        "height": 156,
         "grade": 11,
         "birthPlace": {
             "ja": "秋葉原",
             "en": "Akihabara, Tokyo"
         },
         "troupe": "劇団電姫",
-        "sense": null,
-        "senseRuby": null,
+        "sense": "才色兼備の目覚め",
+        "senseRuby": "ウェイキングアビリティ",
         "cast": "Kondou_Reina"
     },
     {
@@ -75,12 +75,12 @@
         "givenNameKana": "かみら",
         "age": 16,
         "birthday": null,
-        "height": null,
+        "height": 163,
         "grade": 11,
         "birthPlace": null,
         "troupe": "劇団電姫",
-        "sense": null,
-        "senseRuby": null,
+        "sense": "風月の創造",
+        "senseRuby": "ふうげつのそうぞう",
         "cast": "Wakai_Yuuki"
     },
     {
@@ -102,15 +102,15 @@
         "givenNameKana": "つぼみ",
         "age": 17,
         "birthday": null,
-        "height": null,
+        "height": 160,
         "grade": 12,
         "birthPlace": {
             "ja": "青森県",
             "en": "Aomori"
         },
         "troupe": "劇団電姫",
-        "sense": null,
-        "senseRuby": null,
+        "sense": "垣間見る公園の運命",
+        "senseRuby": "ステージプロフェシー",
         "cast": "Serizawa_Yu"
     },
     {
@@ -132,12 +132,12 @@
         "givenNameKana": "とわ",
         "age": 11,
         "birthday": null,
-        "height": null,
+        "height": 151,
         "grade": 6,
         "birthPlace": null,
         "troupe": "劇団電姫",
-        "sense": null,
-        "senseRuby": null,
+        "sense": "アタシの本気",
+        "senseRuby": "あたしのほんき",
         "cast": "Akao_Hikaru"
     }
 ]
