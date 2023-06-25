@@ -21,6 +21,7 @@
         "height": 159,
         "grade": 12,
         "birthPlace": null,
+        "color": "4E5BA8",
         "troupe": "銀河座",
         "sense": "写し鏡の美影",
         "senseRuby": "うつしかがみのびえい",
@@ -52,6 +53,7 @@
             "ja": "ドイツ",
             "en": "Germany"
         },
+        "color": "FF9B5E",
         "troupe": "銀河座",
         "sense": "堅牢なる心",
         "senseRuby": "ゾリド・ガイスト",
@@ -83,6 +85,7 @@
             "ja": "中国",
             "en": "China"
         },
+        "color": "F05A5A",
         "troupe": "銀河座",
         "sense": "先手必勝",
         "senseRuby": "シェンショウビィショング",
@@ -114,6 +117,7 @@
             "ja": "フィンランド",
             "en": "Finland"
         },
+        "color": "83D3D6",
         "troupe": "銀河座",
         "sense": "蠱惑の視線",
         "senseRuby": "ルモット・カッツェ",
@@ -145,6 +149,7 @@
             "ja":"沖縄県",
             "en": "Okinawa"
         },
+        "color": "E8557E",
         "troupe": "銀河座",
         "sense": "躍動する太陽",
         "senseRuby": "ダイナミック・サン",
