@@ -24,6 +24,7 @@
         "troupe": "Eden",
         "sense": "抑制空間",
         "senseRuby": "ネゲートフィールド",
+        "hobby": ["女の子と遊ぶこと"],
         "cast": "Aoi_Kana"
     },
     {
@@ -51,6 +52,7 @@
         "troupe": "Eden",
         "sense": "恨みの収穫",
         "senseRuby": "うらみのしゅうかく",
+        "hobby": ["日記をつけること"],
         "cast": "Lynn"
     },
     {
@@ -80,6 +82,7 @@
         "troupe": "Eden",
         "sense": "無垢な足跡",
         "senseRuby": "むくなそくせき",
+        "hobby": ["花を育てること"],
         "cast": "Saitou_Shuka"
     },
     {
@@ -107,6 +110,7 @@
         "troupe": "Eden",
         "sense": "無事これ名馬",
         "senseRuby": "アベレージヒッター",
+        "hobby": ["野球・競馬・競輪などの観戦"],
         "cast": "Yamamura_Hibiku"
     },
     {
@@ -134,6 +138,7 @@
         "troupe": "Eden",
         "sense": "禁断の果実",
         "senseRuby": "禁断の果実",
+        "hobby": ["からかうこと"],
         "cast": "Yoshioka_Maya"
     }
 ]

@@ -24,6 +24,10 @@
         "troupe": "劇団電姫",
         "sense": "無し",
         "senseRuby": "なし",
+        "hobby": [
+            "コスプレ",
+            "漫画を読むこと"
+        ],
         "cast": "Okasaki_Miho"
     },
     {
@@ -54,6 +58,10 @@
         "troupe": "劇団電姫",
         "sense": "才色兼備の目覚め",
         "senseRuby": "ウェイキングアビリティ",
+        "hobby": [
+            "コスプレ",
+            "アニメを見ること"
+        ],
         "cast": "Kondou_Reina"
     },
     {
@@ -81,6 +89,7 @@
         "troupe": "劇団電姫",
         "sense": "風月の創造",
         "senseRuby": "ふうげつのそうぞう",
+        "hobby": ["動画投稿"],
         "cast": "Wakai_Yuuki"
     },
     {
@@ -111,6 +120,7 @@
         "troupe": "劇団電姫",
         "sense": "垣間見る公園の運命",
         "senseRuby": "ステージプロフェシー",
+        "hobby": ["占い全般"],
         "cast": "Serizawa_Yu"
     },
     {
@@ -138,6 +148,7 @@
         "troupe": "劇団電姫",
         "sense": "アタシの本気",
         "senseRuby": "あたしのほんき",
+        "hobby": ["ゲーム"],
         "cast": "Akao_Hikaru"
     }
 ]

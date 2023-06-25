@@ -24,6 +24,7 @@
         "troupe": "銀河座",
         "sense": "写し鏡の美影",
         "senseRuby": "うつしかがみのびえい",
+        "hobby": ["観劇"],
         "cast": "Toribe_Mariko"
     },
     {
@@ -54,6 +55,7 @@
         "troupe": "銀河座",
         "sense": "堅牢なる心",
         "senseRuby": "ゾリド・ガイスト",
+        "hobby": ["日本文化を楽しむこと"],
         "cast": "Tanaka_Minami"
     },
     {
@@ -84,6 +86,7 @@
         "troupe": "銀河座",
         "sense": "先手必勝",
         "senseRuby": "シェンショウビィショング",
+        "hobby": ["貯金"],
         "cast": "Hanai_Miharu"
     },
     {
@@ -114,6 +117,7 @@
         "troupe": "銀河座",
         "sense": "蠱惑の視線",
         "senseRuby": "ルモット・カッツェ",
+        "hobby": ["入浴"],
         "cast": "Anzai_Yukari"
     },
     {
@@ -144,6 +148,11 @@
         "troupe": "銀河座",
         "sense": "躍動する太陽",
         "senseRuby": "ダイナミック・サン",
+        "hobby": [
+            "踊ること",
+            "体を鍛えること",
+            "おいしいものを食べること"
+        ],
         "cast": "Shimoji_Shino"
     }
 ]

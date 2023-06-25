@@ -24,6 +24,10 @@
         "troupe": "シリウス",
         "sense": "一人二役",
         "senseRuby": "ダブルロール",
+        "hobby": [
+            "絵本を読むこと",
+            "童話集め"
+        ],
         "cast": "Iwami_Manaka"
     },
     {
@@ -46,6 +50,7 @@
         "grade": 11,
         "birthPlace": null,
         "troupe":"シリウス",
+        "hobby": ["人間観察"],
         "cast": "Hasegawa_Ikumi"
     },
     {
@@ -76,6 +81,7 @@
         "troupe": "シリウス",
         "sense": "零の幕間",
         "senseRuby": "コンツェントラツィオーン",
+        "hobby": ["入浴"],
         "cast": "Amaki_Sally"
     },
     {
@@ -103,6 +109,10 @@
         "troupe": "シリウス",
         "sense": "白亜の魂",
         "senseRuby": "はくあのたましい",
+        "hobby": [
+            "ボランティア活動",
+            "チャリティ活動"
+        ],
         "cast": "Naganawa_Maria"
     },
     {
@@ -130,6 +140,10 @@
         "troupe": "シリウス",
         "sense": "覚",
         "senseRuby": "インカム",
+        "hobby": [
+            "SNS",
+            "エゴサーチ"
+        ],
         "cast": "Ozora_Naomi"
     },
     {
@@ -157,6 +171,10 @@
         "troupe":"シリウス",
         "sense": "幸運の大入袋",
         "senseRuby": "こううんのおおいりぶくろ",
+        "hobby": [
+            "散歩",
+            "何か食べること"
+        ],
         "cast": "Sasaki_Riko"
     }
 ]
