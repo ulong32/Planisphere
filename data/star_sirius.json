@@ -50,6 +50,8 @@
         "grade": 11,
         "birthPlace": null,
         "troupe":"シリウス",
+        "sense": null,
+        "senseRuby": null,
         "hobby": ["人間観察"],
         "cast": "Hasegawa_Ikumi"
     },
