@@ -26,7 +26,10 @@
         "sense": "抑制空間",
         "senseRuby": "ネゲートフィールド",
         "hobby": ["女の子と遊ぶこと"],
-        "cast": "Aoi_Kana"
+        "cast": {
+            "ja": "葵井歌菜",
+            "en": "Aoi Kana"
+        }
     },
     {
         "label": "Karasumori_Daikoku",
@@ -55,7 +58,10 @@
         "sense": "恨みの収穫",
         "senseRuby": "うらみのしゅうかく",
         "hobby": ["日記をつけること"],
-        "cast": "Lynn"
+        "cast": {
+            "ja": "Lynn",
+            "en": "Lynn"
+        }
     },
     {
         "label": "Toneri_Nikako",
@@ -86,7 +92,10 @@
         "sense": "無垢な足跡",
         "senseRuby": "むくなそくせき",
         "hobby": ["花を育てること"],
-        "cast": "Saitou_Shuka"
+        "cast": {
+            "ja": "斉藤朱夏",
+            "en": "Saitou Shuka"
+        }
     },
     {
         "label": "Yorozu_Iruru",
@@ -115,7 +124,10 @@
         "sense": "無事これ名馬",
         "senseRuby": "アベレージヒッター",
         "hobby": ["野球・競馬・競輪などの観戦"],
-        "cast": "Yamamura_Hibiku"
+        "cast": {
+            "ja": "山村響",
+            "en": "Yamamura Hibiku"
+        }
     },
     {
         "label": "Fudeshima_Shigure",
@@ -144,6 +156,9 @@
         "sense": "禁断の果実",
         "senseRuby": "禁断の果実",
         "hobby": ["からかうこと"],
-        "cast": "Yoshioka_Maya"
+        "cast": {
+            "ja": "吉岡麻耶",
+            "en": "Yoshioka Maya"
+        }
     }
 ]

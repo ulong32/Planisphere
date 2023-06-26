@@ -29,7 +29,10 @@
             "コスプレ",
             "漫画を読むこと"
         ],
-        "cast": "Okasaki_Miho"
+        "cast": {
+            "ja": "岡咲美保",
+            "en": "Okasaki Miho"
+        }
     },
     {
         "label": "Shiromaru_Mito",
@@ -64,7 +67,10 @@
             "コスプレ",
             "アニメを見ること"
         ],
-        "cast": "Kondou_Reina"
+        "cast": {
+            "ja": "近藤玲奈",
+            "en": "Kondou Reina"
+        }
     },
     {
         "label": "Akiru_Kamira",
@@ -93,7 +99,10 @@
         "sense": "風月の創造",
         "senseRuby": "ふうげつのそうぞう",
         "hobby": ["動画投稿"],
-        "cast": "Wakai_Yuuki"
+        "cast": {
+            "ja": "若井友希",
+            "en": "Wakai Yuuki"
+        }
     },
     {
         "label": "Nekoashi_Tsubomi",
@@ -125,7 +134,10 @@
         "sense": "垣間見る公園の運命",
         "senseRuby": "ステージプロフェシー",
         "hobby": ["占い全般"],
-        "cast": "Serizawa_Yu"
+        "cast": {
+            "ja": "芹澤優",
+            "en": "Serizawa Yu"
+        }
     },
     {
         "label": "Motosu_Towa",
@@ -154,6 +166,9 @@
         "sense": "アタシの本気",
         "senseRuby": "あたしのほんき",
         "hobby": ["ゲーム"],
-        "cast": "Akao_Hikaru"
+        "cast": {
+            "ja": "赤尾ひかる",
+            "en": "Akao Hikaru"
+        }
     }
 ]

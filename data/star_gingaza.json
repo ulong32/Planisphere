@@ -26,7 +26,10 @@
         "sense": "写し鏡の美影",
         "senseRuby": "うつしかがみのびえい",
         "hobby": ["観劇"],
-        "cast": "Toribe_Mariko"
+        "cast": {
+            "ja": "鳥部万里子",
+            "en": "Toribe Mariko"
+        }
     },
     {
         "label": "Ramona_Wolf",
@@ -58,7 +61,10 @@
         "sense": "堅牢なる心",
         "senseRuby": "ゾリド・ガイスト",
         "hobby": ["日本文化を楽しむこと"],
-        "cast": "Tanaka_Minami"
+        "cast": {
+            "ja": "田中美海",
+            "en": "Tanaka Minami"
+        }
     },
     {
         "label": "Wang_Xui",
@@ -90,7 +96,10 @@
         "sense": "先手必勝",
         "senseRuby": "シェンショウビィショング",
         "hobby": ["貯金"],
-        "cast": "Hanai_Miharu"
+        "cast": {
+            "ja": "花井美春",
+            "en": "Hanai Miharu"
+        }
     },
     {
         "label": "Lilja_Kurtbay",
@@ -122,7 +131,10 @@
         "sense": "蠱惑の視線",
         "senseRuby": "ルモット・カッツェ",
         "hobby": ["入浴"],
-        "cast": "Anzai_Yukari"
+        "cast": {
+            "ja": "安齋由香里",
+            "en": "Anzai Yukari"
+        }
     },
     {
         "label": "Yonaguni_Hikari",
@@ -158,6 +170,9 @@
             "体を鍛えること",
             "おいしいものを食べること"
         ],
-        "cast": "Shimoji_Shino"
+        "cast": {
+            "ja": "下地紫野",
+            "en": "Shimoji Shino"
+        }
     }
 ]

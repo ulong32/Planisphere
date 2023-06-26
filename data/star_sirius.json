@@ -29,7 +29,10 @@
             "絵本を読むこと",
             "童話集め"
         ],
-        "cast": "Iwami_Manaka"
+        "cast": {
+            "ja": "石見舞菜香",
+            "en": "Iwami Manaka"
+        }
     },
     {
         "label": "Shizuka",
@@ -55,7 +58,10 @@
         "sense": null,
         "senseRuby": null,
         "hobby": ["人間観察"],
-        "cast": "Hasegawa_Ikumi"
+        "cast": {
+            "ja": "長谷川育美",
+            "en": "Hasegawa Ikumi"
+        }
     },
     {
         "label": "Kathrina_Griebel",
@@ -87,7 +93,10 @@
         "sense": "零の幕間",
         "senseRuby": "コンツェントラツィオーン",
         "hobby": ["入浴"],
-        "cast": "Amaki_Sally"
+        "cast": {
+            "ja": "天城サリー",
+            "en": "Amaki Sally"
+        }
     },
     {
         "label": "Niizuma_Yae",
@@ -119,7 +128,10 @@
             "ボランティア活動",
             "チャリティ活動"
         ],
-        "cast": "Naganawa_Maria"
+        "cast": {
+            "ja": "長縄まりあ",
+            "en": "Naganawa Maria"
+        }
     },
     {
         "label": "Yanagiba_Panda",
@@ -151,7 +163,10 @@
             "SNS",
             "エゴサーチ"
         ],
-        "cast": "Ozora_Naomi"
+        "cast": {
+            "ja": "大空直美",
+            "en": "Ozora Naomi"
+        }
     },
     {
         "label": "Sasuga_Chisa",
@@ -183,6 +198,9 @@
             "散歩",
             "何か食べること"
         ],
-        "cast": "Sasaki_Riko"
+        "cast": {
+            "ja": "佐々木李子",
+            "en": "Sasaki Riko"
+        }
     }
 ]
