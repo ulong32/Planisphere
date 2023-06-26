@@ -38,6 +38,13 @@ Unofficial database for World Dai Star.
     "troupe": "シリウス",           //所属している劇団。
     "sense": "一人二役",            //センス。
     "senseRuby": "ダブルロール",    //センスのルビ。
-    "cast": "Iwami_Manaka"         //キャストのラベル。
+    "hobby": [                     //趣味。
+        "絵本を読むこと",
+        "童話集め"
+    ],
+    "cast": {                  //キャストの名前。日本語、英語を記入。
+        "ja": "石見舞菜香",
+        "en": "Iwami Manaka"
+    }
 }
 ```
