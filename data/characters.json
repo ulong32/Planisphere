@@ -1,0 +1,716 @@
+[
+    {
+        "label": "Otori_Kokona",
+        "name": {
+            "ja": "鳳ここな",
+            "en": "Otori Kokona"
+        },
+        "nameKana": "おおとりここな",
+        "familyName": {
+            "ja": "鳳",
+            "en": "Otori"
+        },
+        "familyNameKana": "おおとり",
+        "givenName": {
+            "ja": "ここな",
+            "en": "Kokona"
+        },
+        "givenNameKana": "ここな",
+        "age": 16,
+        "birthday": null,
+        "height": 158,
+        "grade": 11,
+        "birthPlace": null,
+        "color": "F07B7C",
+        "troupe": "シリウス",
+        "sense": "一人二役",
+        "senseRuby": "ダブルロール",
+        "hobby": [
+            "絵本を読むこと",
+            "童話集め"
+        ],
+        "cast": {
+            "ja": "石見舞菜香",
+            "en": "Iwami Manaka"
+        }
+    },
+    {
+        "label": "Shizuka",
+        "name": {
+            "ja": "静香",
+            "en": "Shizuka"
+        },
+        "nameKana": "しずか",
+        "familyName": null,
+        "familyNameKana": null,
+        "givenName": {
+            "ja": "静香",
+            "en": "Shizuka"
+        },
+        "givenNameKana": "しずか",
+        "age": null,
+        "birthday": null,
+        "height": 158,
+        "grade": 11,
+        "birthPlace": null,
+        "color": "6F93E7",
+        "troupe":"シリウス",
+        "sense": null,
+        "senseRuby": null,
+        "hobby": ["人間観察"],
+        "cast": {
+            "ja": "長谷川育美",
+            "en": "Hasegawa Ikumi"
+        }
+    },
+    {
+        "label": "Kathrina_Griebel",
+        "name":{
+            "ja": "カトリナ・グリーベル",
+            "en": "Kathrina Griebel"
+        },
+        "nameKana": "かとりな・ぐりーべる",
+        "familyName": {
+            "ja": "グリーベル",
+            "en": "Griebel"
+        },
+        "familyNameKana": "ぐりーべる",
+        "givenName": {
+            "ja": "カトリナ",
+            "en": "Kathrina"
+        },
+        "givenNameKana": "かとりな",
+        "age": 16,
+        "birthday": null,
+        "height": 154,
+        "grade": 11,
+        "birthPlace": {
+            "ja": "ドイツ",
+            "en": "Germany"
+        },
+        "color": "FFB83C",
+        "troupe": "シリウス",
+        "sense": "零の幕間",
+        "senseRuby": "コンツェントラツィオーン",
+        "hobby": ["入浴"],
+        "cast": {
+            "ja": "天城サリー",
+            "en": "Amaki Sally"
+        }
+    },
+    {
+        "label": "Niizuma_Yae",
+        "name": {
+            "ja": "新妻八恵",
+            "en": "Niizuma Yae"
+        },
+        "nameKana": "にいずまやえ",
+        "familyName": {
+            "ja": "新妻",
+            "en": "Niizuma"
+        },
+        "familyNameKana": "にいずま",
+        "givenName": {
+            "ja": "八恵",
+            "en": "Yae"
+        },
+        "givenNameKana": "やえ",
+        "age": 11,
+        "birthday": null,
+        "height": 146,
+        "grade": 5,
+        "birthPlace": null,
+        "color": "C7BEF6",
+        "troupe": "シリウス",
+        "sense": "白亜の魂",
+        "senseRuby": "はくあのたましい",
+        "hobby": [
+            "ボランティア活動",
+            "チャリティ活動"
+        ],
+        "cast": {
+            "ja": "長縄まりあ",
+            "en": "Naganawa Maria"
+        }
+    },
+    {
+        "label": "Yanagiba_Panda",
+        "name": {
+            "ja": "柳場ぱんだ",
+            "en": "Yanagiba Panda"
+        },
+        "nameKana": "やなぎばぱんだ",
+        "familyName": {
+            "ja": "柳場",
+            "en": "Yanagiba"
+        },
+        "familyNameKana": "やなぎば",
+        "givenName": {
+            "ja": "ぱんだ",
+            "en": "Panda"
+        },
+        "givenNameKana": "ぱんだ",
+        "age": 13,
+        "birthday": null,
+        "height": 157,
+        "grade": 8,
+        "birthPlace": null,
+        "color": "70DCF3",
+        "troupe": "シリウス",
+        "sense": "覚",
+        "senseRuby": "インカム",
+        "hobby": [
+            "SNS",
+            "エゴサーチ"
+        ],
+        "cast": {
+            "ja": "大空直美",
+            "en": "Ozora Naomi"
+        }
+    },
+    {
+        "label": "Sasuga_Chisa",
+        "name": {
+            "ja": "流石知冴",
+            "en": "Sasuga Chisa"
+        },
+        "nameKana": "さすがちさ",
+        "familyName": {
+            "ja": "流石",
+            "en": "Sasuga"
+        },
+        "familyNameKana": "さすが",
+        "givenName": {
+            "ja": "知冴",
+            "en": "Chisa"
+        },
+        "givenNameKana": "ちさ",
+        "age": 13,
+        "birthday": null,
+        "height": 165,
+        "grade": 8,
+        "birthPlace": null,
+        "color": "F3AF9C",
+        "troupe":"シリウス",
+        "sense": "幸運の大入袋",
+        "senseRuby": "こううんのおおいりぶくろ",
+        "hobby": [
+            "散歩",
+            "何か食べること"
+        ],
+        "cast": {
+            "ja": "佐々木李子",
+            "en": "Sasaki Riko"
+        }
+    },
+    {
+        "label": "Senju_Koyomi",
+        "name": {
+            "ja": "千寿暦",
+            "en": "Senju Koyomi"
+        },
+        "nameKana": "せんじゅこよみ",
+        "familyName": {
+            "ja": "千寿",
+            "en": "Senju"
+        },
+        "familyNameKana": "せんじゅ",
+        "givenName": {
+            "ja":"暦",
+            "en": "Koyomi"
+        },
+        "givenNameKana": "こよみ",
+        "age": 17,
+        "birthday": null,
+        "height": 159,
+        "grade": 12,
+        "birthPlace": null,
+        "color": "4E5BA8",
+        "troupe": "銀河座",
+        "sense": "写し鏡の美影",
+        "senseRuby": "うつしかがみのびえい",
+        "hobby": ["観劇"],
+        "cast": {
+            "ja": "鳥部万里子",
+            "en": "Toribe Mariko"
+        }
+    },
+    {
+        "label": "Ramona_Wolf",
+        "name": {
+            "ja": "ラモーナ・ウォルフ",
+            "en": "Ramona Wolf"
+        },
+        "nameKana": "らもーな・うぉるふ",
+        "familyName": {
+            "ja": "ラモーナ",
+            "en": "Ramona"
+        },
+        "familyNameKana": "らもーな",
+        "givenName": {
+            "ja": "ウォルフ",
+            "en": "Wolf"
+        },
+        "givenNameKana": "うぉるふ",
+        "age": 17,
+        "birthday": null,
+        "height": 163,
+        "grade": 12,
+        "birthPlace": {
+            "ja": "ドイツ",
+            "en": "Germany"
+        },
+        "color": "FF9B5E",
+        "troupe": "銀河座",
+        "sense": "堅牢なる心",
+        "senseRuby": "ゾリド・ガイスト",
+        "hobby": ["日本文化を楽しむこと"],
+        "cast": {
+            "ja": "田中美海",
+            "en": "Tanaka Minami"
+        }
+    },
+    {
+        "label": "Wang_Xui",
+        "name": {
+            "ja": "王雪",
+            "en": "Wang Xue"
+        },
+        "nameKana": "わんしゅえ",
+        "familyName": {
+            "ja": "王",
+            "en": "Wang"
+        },
+        "familyNameKana": "わん",
+        "givenName": {
+            "ja": "雪",
+            "en": "Xue"
+        },
+        "givenNameKana": "しゅえ",
+        "age": 15,
+        "birthday": null,
+        "height": 151,
+        "grade": 10,
+        "birthPlace": {
+            "ja": "中国",
+            "en": "China"
+        },
+        "color": "F05A5A",
+        "troupe": "銀河座",
+        "sense": "先手必勝",
+        "senseRuby": "シェンショウビィショング",
+        "hobby": ["貯金"],
+        "cast": {
+            "ja": "花井美春",
+            "en": "Hanai Miharu"
+        }
+    },
+    {
+        "label": "Lilja_Kurtbay",
+        "name": {
+            "ja": "リリヤ・クルトベイ",
+            "en": "Lilja Kurtbay"
+        },
+        "nameKana": "りりや・くるとべい",
+        "familyName": {
+            "ja": "クルトベイ",
+            "en": "Kurtbay"
+        },
+        "familyNameKana": "くるとべい",
+        "givenName": {
+            "ja": "リリヤ",
+            "en": "Lilja"
+        },
+        "givenNameKana": "りりや",
+        "age": 17,
+        "birthday": null,
+        "height": 168,
+        "grade": 12,
+        "birthPlace": {
+            "ja": "フィンランド",
+            "en": "Finland"
+        },
+        "color": "83D3D6",
+        "troupe": "銀河座",
+        "sense": "蠱惑の視線",
+        "senseRuby": "ルモット・カッツェ",
+        "hobby": ["入浴"],
+        "cast": {
+            "ja": "安齋由香里",
+            "en": "Anzai Yukari"
+        }
+    },
+    {
+        "label": "Yonaguni_Hikari",
+        "name": {
+            "ja": "与那国緋花里",
+            "en": "Yonaguni Hikari"
+        },
+        "nameKana": "よなぐにひかり",
+        "familyName": {
+            "ja": "与那国",
+            "en": "Yonaguni"
+        },
+        "familyNameKana": "よなぐに",
+        "givenName": {
+            "ja": "緋花里",
+            "en": "Hikari"
+        },
+        "givenNameKana": "ひかり",
+        "age": 15,
+        "birthday": null,
+        "height": 155,
+        "grade":10,
+        "birthPlace": {
+            "ja":"沖縄県",
+            "en": "Okinawa"
+        },
+        "color": "E8557E",
+        "troupe": "銀河座",
+        "sense": "躍動する太陽",
+        "senseRuby": "ダイナミック・サン",
+        "hobby": [
+            "踊ること",
+            "体を鍛えること",
+            "おいしいものを食べること"
+        ],
+        "cast": {
+            "ja": "下地紫野",
+            "en": "Shimoji Shino"
+        }
+    },
+    {
+        "label": "Senju_Iroha",
+        "name": {
+            "ja": "千寿いろは",
+            "en": "Senju Iroha"
+        },
+        "nameKana": "せんじゅいろは",
+        "familyName": {
+            "ja": "千寿",
+            "en" :"Senju"
+        },
+        "familyNameKana": "せんじゅ",
+        "givenName": {
+            "ja": "いろは",
+            "en": "Iroha"
+        },
+        "givenNameKana": "いろは",
+        "age": 16,
+        "birthday": null,
+        "height": 158,
+        "grade": 11,
+        "birthPlace": null,
+        "color": "BAC4D7",
+        "troupe": "劇団電姫",
+        "sense": "無し",
+        "senseRuby": "なし",
+        "hobby": [
+            "コスプレ",
+            "漫画を読むこと"
+        ],
+        "cast": {
+            "ja": "岡咲美保",
+            "en": "Okasaki Miho"
+        }
+    },
+    {
+        "label": "Shiromaru_Mito",
+        "name": {
+            "ja": "白丸美兎",
+            "en": "Shiromaru Mito"
+        },
+        "nameKana": "しろまるみと",
+        "familyName": {
+            "ja": "白丸",
+            "en": "Shiromaru"
+        },
+        "familyNameKana": "しろまる",
+        "givenName": {
+            "ja": "美兎",
+            "en": "Mito"
+        },
+        "givenNameKana": "みと",
+        "age": 16,
+        "birthday": null,
+        "height": 156,
+        "grade": 11,
+        "birthPlace": {
+            "ja": "秋葉原",
+            "en": "Akihabara, Tokyo"
+        },
+        "color": "FFA866",
+        "troupe": "劇団電姫",
+        "sense": "才色兼備の目覚め",
+        "senseRuby": "ウェイキングアビリティ",
+        "hobby": [
+            "コスプレ",
+            "アニメを見ること"
+        ],
+        "cast": {
+            "ja": "近藤玲奈",
+            "en": "Kondou Reina"
+        }
+    },
+    {
+        "label": "Akiru_Kamira",
+        "name": {
+            "ja": "阿岐留カミラ",
+            "en": "Akiru Kamira"
+        },
+        "nameKana": "あきるかみら",
+        "familyName": {
+            "ja": "阿岐留",
+            "en": "Akiru"
+        },
+        "familyNameKana": "あきる",
+        "givenName": {
+            "ja": "カミラ",
+            "en": "Kamira"
+        },
+        "givenNameKana": "かみら",
+        "age": 16,
+        "birthday": null,
+        "height": 163,
+        "grade": 11,
+        "birthPlace": null,
+        "color": "C0F297",
+        "troupe": "劇団電姫",
+        "sense": "風月の創造",
+        "senseRuby": "ふうげつのそうぞう",
+        "hobby": ["動画投稿"],
+        "cast": {
+            "ja": "若井友希",
+            "en": "Wakai Yuuki"
+        }
+    },
+    {
+        "label": "Nekoashi_Tsubomi",
+        "name": {
+            "ja": "猫足蕾",
+            "en": "Nekoashi Tsubomi"
+        },
+        "nameKana": "ねこあしつぼみ",
+        "familyName": {
+            "ja": "猫足",
+            "en":"Nekoashi"
+        },
+        "familyNameKana": "ねこあし",
+        "givenName": {
+            "ja": "蕾",
+            "en": "Tsubomi"
+        },
+        "givenNameKana": "つぼみ",
+        "age": 17,
+        "birthday": null,
+        "height": 160,
+        "grade": 12,
+        "birthPlace": {
+            "ja": "青森県",
+            "en": "Aomori"
+        },
+        "color": "AE7AD4",
+        "troupe": "劇団電姫",
+        "sense": "垣間見る公園の運命",
+        "senseRuby": "ステージプロフェシー",
+        "hobby": ["占い全般"],
+        "cast": {
+            "ja": "芹澤優",
+            "en": "Serizawa Yu"
+        }
+    },
+    {
+        "label": "Motosu_Towa",
+        "name": {
+            "ja": "本巣叶羽",
+            "en": "Motosu Towa"
+        },
+        "nameKana": "もとすとわ",
+        "familyName": {
+            "ja": "本巣",
+            "en": "Motosu"
+        },
+        "familyNameKana": "もとす",
+        "givenName": {
+            "ja": "叶羽",
+            "en": "Towa"
+        },
+        "givenNameKana": "とわ",
+        "age": 11,
+        "birthday": null,
+        "height": 151,
+        "grade": 6,
+        "birthPlace": null,
+        "color": "FF92B1",
+        "troupe": "劇団電姫",
+        "sense": "アタシの本気",
+        "senseRuby": "あたしのほんき",
+        "hobby": ["ゲーム"],
+        "cast": {
+            "ja": "赤尾ひかる",
+            "en": "Akao Hikaru"
+        }
+    },
+    {
+        "label":"Renjakuno_Hatsumi",
+        "name": {
+            "ja": "連尺野初魅",
+            "en": "Renjakuno Hatsumi"
+        },
+        "nameKana": "れんじゃくのはつみ",
+        "familyName": {
+            "ja": "連尺野",
+            "en": "Renjakuno"
+        },
+        "familyNameKana": "れんじゃくの",
+        "givenName": {
+            "ja": "初魅",
+            "en": "Hatsumi"
+        },
+        "givenNameKana": "はつみ",
+        "age": 20,
+        "birthday": null,
+        "height": 165,
+        "grade": null,
+        "birthPlace": null,
+        "color": "#998EDD",
+        "troupe": "Eden",
+        "sense": "抑制空間",
+        "senseRuby": "ネゲートフィールド",
+        "hobby": ["女の子と遊ぶこと"],
+        "cast": {
+            "ja": "葵井歌菜",
+            "en": "Aoi Kana"
+        }
+    },
+    {
+        "label": "Karasumori_Daikoku",
+        "name": {
+            "ja": "烏森大黒",
+            "en": "Karasumori Daikoku"
+        },
+        "nameKana": "からすもりだいこく",
+        "familyName": {
+            "ja": "烏森",
+            "en": "Karasumori"
+        },
+        "familyNameKana": "からすもり",
+        "givenName": {
+            "ja": "大黒",
+            "en":"Daikoku"
+        },
+        "givenNameKana": "だいこく",
+        "age": 13,
+        "birthday": null,
+        "height": 154,
+        "grade": 8,
+        "birthPlace": null,
+        "color": "505053",
+        "troupe": "Eden",
+        "sense": "恨みの収穫",
+        "senseRuby": "うらみのしゅうかく",
+        "hobby": ["日記をつけること"],
+        "cast": {
+            "ja": "Lynn",
+            "en": "Lynn"
+        }
+    },
+    {
+        "label": "Toneri_Nikako",
+        "name": {
+            "ja": "舎人仁花子",
+            "en": "Toneri Nikako"
+        },
+        "nameKana": "とねりにかこ",
+        "familyName": {
+            "ja": "舎人",
+            "en": "Toneri"
+        },
+        "familyNameKana": "とねり",
+        "givenName": {
+            "ja": "仁花子",
+            "en": "Nikako"
+        },
+        "age": 15,
+        "birthday": null,
+        "height": 162,
+        "grade": 10,
+        "birthPlace": {
+            "ja": "青ヶ島",
+            "en": "Aogashima, Tokyo"
+        },
+        "color": "4195DD",
+        "troupe": "Eden",
+        "sense": "無垢な足跡",
+        "senseRuby": "むくなそくせき",
+        "hobby": ["花を育てること"],
+        "cast": {
+            "ja": "斉藤朱夏",
+            "en": "Saitou Shuka"
+        }
+    },
+    {
+        "label": "Yorozu_Iruru",
+        "name": {
+            "ja": "萬容",
+            "en": "Yorozu Iruru"
+        },
+        "nameKana": "よろずいるる",
+        "familyName": {
+            "ja": "萬",
+            "en": "Yorozu"
+        },
+        "familyNameKana": "よろず",
+        "givenName": {
+            "ja": "容",
+            "en": "Iruru"
+        },
+        "givenNameKana": "いるる",
+        "age": 17,
+        "birthday": null,
+        "height": 158,
+        "grade": 12,
+        "birthPlace": null,
+        "color": "B59158",
+        "troupe": "Eden",
+        "sense": "無事これ名馬",
+        "senseRuby": "アベレージヒッター",
+        "hobby": ["野球・競馬・競輪などの観戦"],
+        "cast": {
+            "ja": "山村響",
+            "en": "Yamamura Hibiku"
+        }
+    },
+    {
+        "label": "Fudeshima_Shigure",
+        "name": {
+            "ja": "筆島しぐれ",
+            "en": "Fudeshima Shigure"
+        },
+        "nameKana": "ふでしましぐれ",
+        "familyName": {
+            "ja": "筆島",
+            "en": "Fudeshima"
+        },
+        "familyNameKana": "ふでしま",
+        "givenName": {
+            "ja": "しぐれ",
+            "en": "Shigure"
+        },
+        "givenNameKana": "しぐれ",
+        "age": 10,
+        "birthday": null,
+        "height": 147,
+        "grade": 5,
+        "birthPlace": null,
+        "color": "B5303C",
+        "troupe": "Eden",
+        "sense": "禁断の果実",
+        "senseRuby": "禁断の果実",
+        "hobby": ["からかうこと"],
+        "cast": {
+            "ja": "吉岡麻耶",
+            "en": "Yoshioka Maya"
+        }
+    }
+]

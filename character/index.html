@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>キャラクター - Planisphere</title>
+    <link rel="stylesheet" href="../css/reset.css">
+    <style>
+        h1 {
+            font-size: 36px;
+            font-weight: 500;
+        }
+
+        .characters-container {
+            width: 100%;
+            background-color: whitesmoke;
+            margin: 6px;
+            padding: 6px;
+        }
+
+        .characters-container_item {
+            display: block;
+            border: 1px solid black;
+            margin: 12px;
+            padding: 12px;
+            border-radius: 6px;
+
+        }
+
+        .characters-container_name {
+            width: fit-content;
+            font-size: x-large;
+        }
+
+        .characters-container_nameKana {
+            font-size: smaller;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Planisphere</h1>
+    <div id="characters-container" class="characters-container"></div>
+    <script src="./script.js"></script>
+</body>
+
+</html>
