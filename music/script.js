@@ -14,8 +14,9 @@ function buildMusicList () {
         divMusicTitle.textContent = music.title;
 
         divMusicStamina = document.createElement("div");
-        divMusicStamina.classList.add("music-item_stamina")
-        divMusicStamina.textContent = "消費:" + music.stamina.toString();
+        divMusicStamina.classList.add("music-item_stamina");
+        staminaMulti = parseInt(document.getElementById("selMulti").value)
+        divMusicStamina.textContent = "消費:" + (music.stamina * staminaMulti).toString();
 
         divMusicSingers = document.createElement("div");
         divMusicSingers.classList.add("music-item_singer")
@@ -49,6 +50,10 @@ document.getElementById("selOrder").addEventListener("change", function () {
             return (a[mode[0]] > b[mode[0]]) ? -1 : 1;
         })
     }
+    buildMusicList();
+})
+
+document.getElementById("selMulti").addEventListener("change", () => {
     buildMusicList();
 })
 
