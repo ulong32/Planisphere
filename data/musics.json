@@ -1,0 +1,358 @@
+[
+    {
+        "title": "ワナビスタ！",
+        "lylicist": "松井洋平",
+        "composer": "光増ハジメ",
+        "arranger": "EFFY",
+        "duration": 100,
+        "stamina": 25,
+        "difficulty": [7,13,20,25,"Ⅴ"],
+        "singer": [
+            "鳳ここな",
+            "静香",
+            "カトリナ・グリーベル",
+            "新妻八恵",
+            "柳場ぱんだ",
+            "流石知冴"
+        ]
+    },
+    {
+        "title": "トゥ・オブ・アス",
+        "lylicist": "",
+        "composer": "",
+        "arranger": "",
+        "duration": 100,
+        "stamina": 25,
+        "difficulty": [7,16,21,26,"Ⅴ"],
+        "singer": [
+            "鳳ここな",
+            "静香"
+        ]
+    },
+    {
+        "title": "勿忘唄",
+        "stamina": 29,
+        "difficulty": [6,14,19,25,"Ⅳ"],
+        "singer": [
+            "静香",
+            "鳳ここな"
+        ]
+    },
+    {
+        "title": "夢見月夜",
+        "stamina": 32,
+        "difficulty": [6,13,20,24,"Ⅲ"],
+        "singer": [
+            "新妻八恵"
+        ]
+    },
+    {
+        "title": "悠久月華",
+        "stamina": 33,
+        "difficulty": [5,12,17,23,"Ⅰ"],
+        "singer": [
+            "ラモーナ・ウォルフ"
+        ]
+    },{
+        "title": "ダイヤモンドの誓い",
+        "stamina": 26,
+        "difficulty": [6,14,20,25,"Ⅲ"],
+        "singer": [
+            "鳳ここな"
+        ]
+    },
+    {
+        "title": "魔法のラストノート",
+        "stamina": 31,
+        "difficulty": [10,17,23,28,"Ⅷ"],
+        "singer": [
+            "新妻八恵"
+        ]
+    },
+    {
+        "title": "New Nostalgic Friend",
+        "stamina": 24,
+        "difficulty": [6,13,20,24,"Ⅱ"],
+        "singer": [
+            "新妻八恵",
+            "鳳ここな"
+        ]
+    },
+    {
+        "title": "Drawing World",
+        "stamina": 25,
+        "difficulty": [8,14,22,25,"Ⅲ"],
+        "singer": [
+            "白丸美兎",
+            "本巣叶羽",
+            "千寿いろは"
+        ]
+    },
+    {
+        "title": "名もなき恋人よ",
+        "stamina": 31,
+        "difficulty": [5,12,18,23,"Ⅱ"],
+        "singer": [
+            "柳場ぱんだ",
+            "流石知冴"
+        ]
+    },
+    {
+        "title": "Etoile",
+        "stamina": 27,
+        "difficulty": [5,11,17,23,"Ⅵ"],
+        "singer": [
+            "新妻八恵"
+        ]
+    },
+    {
+        "title": "Masquerade",
+        "stamina": 26,
+        "difficulty": [8,15,22,27,"Ⅵ"],
+        "singer": [
+            "新妻八恵",
+            "鳳ここな"
+        ]
+    },
+    {
+        "title": "Farewell Song",
+        "stamina": 25,
+        "difficulty": [6,13,19,24,"Ⅲ"],
+        "singer": [
+            "新妻八恵"
+        ]
+    },
+    {
+        "title": "シリウスの輝きのように",
+        "stamina": 29,
+        "difficulty": [11,18,25,28,"Ⅵ"],
+        "singer": [
+            "鳳ここな",
+            "静香",
+            "カトリナ・グリーベル",
+            "新妻八恵",
+            "柳場ぱんだ",
+            "流石知冴"
+        ]
+    },
+    {
+        "title": "Faith in Expression",
+        "stamina": 26,
+        "difficulty": [11,18,23,27,"Ⅶ"],
+        "singer": [
+            "連尺野初魅",
+            "烏森大黒",
+            "舎人仁花子",
+            "萬容",
+            "筆島しぐれ"
+        ]
+    },
+    {
+        "title": "プラネタリウム・レヴュー",
+        "stamina": 25,
+        "difficulty": [8,15,22,27,"Ⅳ"],
+        "singer": [
+            "千寿暦",
+            "ラモーナ・ウォルフ",
+            "王雪",
+            "リリヤ・クルトベイ",
+            "与那国緋花里"
+        ]
+    },
+    {
+        "title": "デアエ・エクス・マキナ！",
+        "stamina": 25,
+        "difficulty": [9,16,23,27,"Ⅶ"],
+        "singer": [
+            "千寿いろは",
+            "白丸美兎",
+            "阿岐留カミラ",
+            "猫足蕾",
+            "本巣叶羽"
+        ]
+    },
+    {
+        "title": "暁星アストレーション",
+        "stamina": 28,
+        "difficulty": [11,17,25,28,"Ⅴ"],
+        "singer": [
+            "カトリナ・グリーベル",
+            "ラモーナ・ウォルフ"
+        ]
+    },
+    {
+        "title": "幾億の星の空で",
+        "stamina": 26,
+        "difficulty": [6,13,19,23,"Ⅴ"],
+        "singer": [
+            "流石知冴",
+            "柊望有"
+        ]
+    },
+    {
+        "title": "純粋と奔放",
+        "stamina": 33,
+        "difficulty": [7,14,20,25,"Ⅲ"],
+        "singer": [
+            "連尺野初魅",
+            "舎人仁花子"
+        ]
+    },
+    {
+        "title": "心という名の不可解",
+        "stamina": 31,
+        "difficulty": [9,17,24,27,"Ⅶ"],
+        "singer": [
+            "千寿暦"
+        ]
+    },
+    {
+        "title": "Snow halation",
+        "stamina": 39,
+        "difficulty": [8,15,21,26,"Ⅳ"],
+        "singer": [
+            "鳳ここな",
+            "静香",
+            "カトリナ・グリーベル",
+            "新妻八恵",
+            "柳場ぱんだ",
+            "流石知冴"
+        ]
+    },
+    {
+        "title": "フォニイ",
+        "stamina": 30,
+        "difficulty": [10,16,23,27,"Ⅵ"],
+        "singer": [
+            "舎人仁花子"
+        ]
+    },
+    {
+        "title": "怪物",
+        "stamina": 28,
+        "difficulty": [9,16,21,26,"Ⅳ"],
+        "singer": [
+            "筆島しぐれ"
+        ]
+    },
+    {
+        "title": "名前のない怪物",
+        "stamina": 35,
+        "difficulty": [7,15,22,26,"Ⅴ"],
+        "singer": [
+            "猫足蕾"
+        ]
+    },
+    {
+        "title": "Binary Star",
+        "stamina": 28,
+        "difficulty": [9,16,21,26,"Ⅴ"],
+        "singer": [
+            "鳳ここな",
+            "静香"
+        ]
+    },
+    {
+        "title": "六兆年と一夜物語",
+        "stamina": 34,
+        "difficulty": [12,18,26,29,"Ⅷ"],
+        "singer": [
+            "ラモーナ・ウォルフ"
+        ]
+    },
+    {
+        "title": "Decide",
+        "stamina": 26,
+        "difficulty": [6,13,18,24,"Ⅱ"],
+        "singer": [
+            "カトリナ・グリーベル"
+        ]
+    },
+    {
+        "title": "Shiny Smily Story",
+        "stamina": 42,
+        "difficulty": [7,16,22,26,"Ⅳ"],
+        "singer": [
+            "鳳ここな",
+            "静香",
+            "カトリナ・グリーベル",
+            "萬容",
+            "舎人仁花子"
+        ]
+    },
+    {
+        "title": "Blondie Revenge Tragedy",
+        "stamina": 28,
+        "difficulty": [10,17,22,27,"Ⅴ"],
+        "singer": [
+            "烏森大黒"
+        ]
+    },
+    {
+        "title": "ウタカタメロディ",
+        "stamina": 27,
+        "difficulty": [8,14,22,26,"Ⅳ"],
+        "singer": [
+            "王雪",
+            "ラモーナ・ウォルフ"
+        ]
+    },
+    {
+        "title": "変わらないもの",
+        "stamina": 32,
+        "difficulty": [5,11,18,23,"Ⅰ"],
+        "singer": [
+            "カトリナ・グリーベル"
+        ]
+    },
+    {
+        "title": "情熱リベレイション",
+        "stamina": 28,
+        "difficulty": [10,16,24,27,"Ⅵ"],
+        "singer": [
+            "千寿暦",
+            "ラモーナ・ウォルフ"
+        ]
+    },
+    {
+        "title": "Fernweh",
+        "stamina": 26,
+        "difficulty": [5,12,19,24,"Ⅱ"],
+        "singer": [
+            "カトリナ・グリーベル"
+        ]
+    },
+    {
+        "title": "Realize",
+        "stamina": 38,
+        "difficulty": [12,18,25,29,"Ⅸ"],
+        "singer": [
+            "柳場ぱんだ"
+        ]
+    },
+    {
+        "title": "ANIMA",
+        "stamina": 38,
+        "difficulty": [10,15,23,18,"Ⅵ"],
+        "singer": [
+            "舎人仁花子"
+        ]
+    },
+    {
+        "title": "サマーバカンス☆アクトレス！",
+        "stamina": 29,
+        "difficulty": [9,16,22,26,"Ⅴ"],
+        "singer": [
+            "猫足蕾",
+            "阿岐留カミラ"
+        ]
+    },
+    {
+        "title": "魔法少女とチョコレゐト",
+        "stamina": 32,
+        "difficulty": [11,17,24,27,"Ⅶ"],
+        "singer": [
+            "本巣叶羽"
+        ]
+    }
+]

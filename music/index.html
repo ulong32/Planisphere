@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>楽曲一覧 - Planisphere</title>
+    <link rel="stylesheet" href="../css/reset.min.css">
+    <script src="./script.js" defer></script>
+    <style>
+        body {
+            font-family: sans-serif;
+        }
+        .music-container_box {
+            margin: 8px;
+        }
+        .music-container_item {
+            border: 1px solid #000;
+            margin: 8px;
+            padding: 4px;
+        }
+        .music-item_title {
+            font-size: large;
+        }
+        .music-item_singer {
+            font-size: small;
+        }
+    </style>
+</head>
+<body>
+    <h1>楽曲一覧</h1>
+    <div>
+        並び替え:
+        <select id="selOrder">
+            <option selected value="default">デフォルト(配信日順)</option>
+            <option value="title_asc">曲名 - 昇順</option>
+            <option value="title_dsc">曲名 - 降順</option>
+            <option value="stamina_dsc">消費スタミナ - 多い順</option>
+            <option value="stamina_asc">消費スタミナ - 少ない順</option>
+        </select>
+    </div>
+    <div class="music-container_box" id="divMusics"></div>
+</body>
+</html>
