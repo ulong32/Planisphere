@@ -7,7 +7,6 @@ function buildMusicList () {
     while(divMusics.firstChild) {
         divMusics.removeChild(divMusics.firstChild);
     }
-
     for(let i=0; i < musicData.length; i++) {
         music = musicData[i];
         divMusicTitle = document.createElement("div");
@@ -36,19 +35,12 @@ function buildMusicList () {
     }
 }
 
-let musicData = [];
-
-const xhr = new XMLHttpRequest();
-xhr.open("GET","../data/musics.json");
-xhr.onload = function () {
-    musicData = JSON.parse(this.responseText)
-    buildMusicList();
-}
-xhr.send()
-
 document.getElementById("selOrder").addEventListener("change", function () {
-    const mode = this.value.split("_")
-    if(mode[1] === "asc") {
+    const mode = this.value.split("_");
+    if(this.value === "default") {
+        console.log("a");
+        musicData = musicData_Original.concat();
+    }else if(mode[1] === "asc") {
         musicData.sort((a,b) => {
             return (a[mode[0]] < b[mode[0]]) ? -1 : 1;
         })
@@ -60,3 +52,10 @@ document.getElementById("selOrder").addEventListener("change", function () {
     buildMusicList();
 })
 
+
+const xhr = new XMLHttpRequest();
+xhr.open("GET","../data/musics.json", false);
+xhr.send();
+let musicData = JSON.parse(xhr.responseText);
+const musicData_Original = JSON.parse(xhr.responseText);
+buildMusicList();
