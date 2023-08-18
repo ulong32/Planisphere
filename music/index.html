@@ -29,34 +29,44 @@
         .music-item_singer {
             font-size: small;
         }
+        .option-box > div{
+            margin: 8px;
+        }
     </style>
 </head>
 <body>
     <h1>楽曲一覧</h1>
-    <div>
-        並び替え:
-        <select id="selOrder">
-            <option value="default">デフォルト(配信日順)</option>
-            <option value="title_asc">曲名 - 昇順</option>
-            <option value="title_dsc">曲名 - 降順</option>
-            <option value="stamina_dsc">消費スタミナ - 多い順</option>
-            <option value="stamina_asc">消費スタミナ - 少ない順</option>
-        </select>
-        スタミナ倍率:
-        <select id="selMulti">
-            <option value="1">x1</option>
-            <option value="2">x2</option>
-            <option value="3">x3</option>
-            <option value="4">x4</option>
-            <option value="5">x5</option>
-            <option value="6">x6</option>
-            <option value="7">x7</option>
-            <option value="8">x8</option>
-            <option value="9">x9</option>
-            <option value="10">x10</option>
-        </select>
-        現在スタミナ:
-        <input type="number" style="width: 64px;" id="numStamina" value="300">
+    <div class="option-box">
+        <div>
+            並び替え:
+            <select id="selOrder">
+                <option value="default">デフォルト(配信日順)</option>
+                <option value="title_asc">曲名 - 昇順</option>
+                <option value="title_dsc">曲名 - 降順</option>
+                <option value="stamina_dsc">消費スタミナ - 多い順</option>
+                <option value="stamina_asc">消費スタミナ - 少ない順</option>
+            </select>
+        </div>
+        <div>
+            スタミナ倍率:
+            <select id="selMulti">
+                <option value="1">x1</option>
+                <option value="2">x2</option>
+                <option value="3">x3</option>
+                <option value="4">x4</option>
+                <option value="5">x5</option>
+                <option value="6">x6</option>
+                <option value="7">x7</option>
+                <option value="8">x8</option>
+                <option value="9">x9</option>
+                <option value="10">x10</option>
+            </select>
+        </div>
+        <div>
+            現在スタミナ:
+            <input type="number" style="width: 64px;" id="numStamina" value="300">
+        </div>
+        
     </div>
     <div class="music-container_box" id="divMusics"></div>
 </body>
