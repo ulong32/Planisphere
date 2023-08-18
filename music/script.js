@@ -15,8 +15,9 @@ function buildMusicList () {
 
         divMusicStamina = document.createElement("div");
         divMusicStamina.classList.add("music-item_stamina");
-        staminaMulti = parseInt(document.getElementById("selMulti").value)
-        divMusicStamina.textContent = "消費:" + (music.stamina * staminaMulti).toString();
+        staminaMulti = parseInt(document.getElementById("selMulti").value);
+        staminaVal = parseInt(document.getElementById("numStamina").value);
+        divMusicStamina.textContent = "消費:" + (music.stamina * staminaMulti).toString() + " ("+Math.floor(staminaVal / (music.stamina * staminaMulti)) + "回)"
 
         divMusicSingers = document.createElement("div");
         divMusicSingers.classList.add("music-item_singer")
@@ -54,6 +55,10 @@ document.getElementById("selOrder").addEventListener("change", function () {
 })
 
 document.getElementById("selMulti").addEventListener("change", () => {
+    buildMusicList();
+})
+
+document.getElementById("numStamina").addEventListener("input", () => {
     buildMusicList();
 })
 
