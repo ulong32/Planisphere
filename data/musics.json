@@ -4,8 +4,9 @@
         "lylicist": "松井洋平",
         "composer": "光増ハジメ",
         "arranger": "EFFY",
-        "duration": 100,
+        "duration": 88,
         "stamina": 25,
+        "bpm": 236,
         "difficulty": [7,13,20,25,"Ⅴ"],
         "singer": [
             "鳳ここな",
@@ -18,11 +19,12 @@
     },
     {
         "title": "トゥ・オブ・アス",
-        "lylicist": "",
-        "composer": "",
-        "arranger": "",
-        "duration": 100,
+        "lylicist": "松井洋平",
+        "composer": "由良祟将",
+        "arranger": "EFFY",
+        "duration": 90,
         "stamina": 25,
+        "bpm": 121,
         "difficulty": [7,16,21,26,"Ⅴ"],
         "singer": [
             "鳳ここな",
@@ -31,7 +33,11 @@
     },
     {
         "title": "勿忘唄",
+        "lylicist": "志村真白",
+        "composer": "志村真白",
+        "arranger": "志村真白",
         "stamina": 29,
+        "bpm":100,
         "difficulty": [6,14,19,25,"Ⅳ"],
         "singer": [
             "静香",
@@ -40,7 +46,11 @@
     },
     {
         "title": "夢見月夜",
+        "lylicist": "志村真白",
+        "composer": "LiCu",
+        "arranger": "志村真白",
         "stamina": 32,
+        "bpm": 85,
         "difficulty": [6,13,20,24,"Ⅲ"],
         "singer": [
             "新妻八恵"
@@ -48,14 +58,22 @@
     },
     {
         "title": "悠久月華",
+        "lylicist": "志村真白",
+        "composer": "志村真白",
+        "arranger": "志村真白",
         "stamina": 33,
+        "bpm": 82,
         "difficulty": [5,12,17,23,"Ⅰ"],
         "singer": [
             "ラモーナ・ウォルフ"
         ]
     },{
         "title": "ダイヤモンドの誓い",
+        "lylicist": "大木貢佑",
+        "composer": "森田友梨",
+        "arranger": "森田友梨",
         "stamina": 26,
+        "bpm": 132,
         "difficulty": [6,14,20,25,"Ⅲ"],
         "singer": [
             "鳳ここな"
@@ -63,7 +81,11 @@
     },
     {
         "title": "魔法のラストノート",
+        "lylicist": "大木貢佑",
+        "composer": "藤井健太郎",
+        "arranger": "藤井健太郎",
         "stamina": 31,
+        "bpm": 238,
         "difficulty": [10,17,23,28,"Ⅷ"],
         "singer": [
             "新妻八恵"
@@ -71,7 +93,11 @@
     },
     {
         "title": "New Nostalgic Friend",
+        "lylicist": "大木貢佑",
+        "composer": "叶人・矢野達也",
+        "arranger": "矢野達也",
         "stamina": 24,
+        "bpm": 102,
         "difficulty": [6,13,20,24,"Ⅱ"],
         "singer": [
             "新妻八恵",
@@ -80,7 +106,11 @@
     },
     {
         "title": "Drawing World",
+        "lylicist": "大木貢佑",
+        "composer": "ふじそば",
+        "arranger": "ふじそば",
         "stamina": 25,
+        "bpm": 126,
         "difficulty": [8,14,22,25,"Ⅲ"],
         "singer": [
             "白丸美兎",
@@ -90,7 +120,11 @@
     },
     {
         "title": "名もなき恋人よ",
+        "lylicist": "松井洋平",
+        "composer": "塩原大貴",
+        "arranger": "塩原大貴",
         "stamina": 31,
+        "bpm": 88,
         "difficulty": [5,12,18,23,"Ⅱ"],
         "singer": [
             "柳場ぱんだ",
@@ -99,7 +133,11 @@
     },
     {
         "title": "Etoile",
+        "lylicist": "唐沢美帆",
+        "composer": "Ryu",
+        "arranger": "Ryu",
         "stamina": 27,
+        "bpm": 146,
         "difficulty": [5,11,17,23,"Ⅵ"],
         "singer": [
             "新妻八恵"
@@ -107,7 +145,11 @@
     },
     {
         "title": "Masquerade",
+        "lylicist": "唐沢美帆",
+        "composer": "山田竜平",
+        "arranger": "山田竜平",
         "stamina": 26,
+        "bpm": 116,
         "difficulty": [8,15,22,27,"Ⅵ"],
         "singer": [
             "新妻八恵",
@@ -116,7 +158,11 @@
     },
     {
         "title": "Farewell Song",
+        "lylicist": "唐沢美帆",
+        "composer": "SHIBU",
+        "arranger": "SHIBU",
         "stamina": 25,
+        "bpm": 99,
         "difficulty": [6,13,19,24,"Ⅲ"],
         "singer": [
             "新妻八恵"
@@ -124,7 +170,11 @@
     },
     {
         "title": "シリウスの輝きのように",
+        "lylicist": "松井洋平",
+        "composer": "光増ハジメ",
+        "arranger": "光増ハジメ、今野花香",
         "stamina": 29,
+        "bpm": 158,
         "difficulty": [11,18,25,28,"Ⅵ"],
         "singer": [
             "鳳ここな",
@@ -137,7 +187,11 @@
     },
     {
         "title": "Faith in Expression",
+        "lylicist": "松井洋平",
+        "composer": "Ryu",
+        "arranger": "Ryu",
         "stamina": 26,
+        "bpm": 140,
         "difficulty": [11,18,23,27,"Ⅶ"],
         "singer": [
             "連尺野初魅",
@@ -149,7 +203,11 @@
     },
     {
         "title": "プラネタリウム・レヴュー",
+        "lylicist": "松井洋平",
+        "composer": "塩原大貴",
+        "arranger": "塩原大貴",
         "stamina": 25,
+        "bpm": 170,
         "difficulty": [8,15,22,27,"Ⅳ"],
         "singer": [
             "千寿暦",
@@ -161,7 +219,11 @@
     },
     {
         "title": "デアエ・エクス・マキナ！",
+        "lylicist": "松井洋平",
+        "composer": "新田目駿",
+        "arranger": "日直伸次",
         "stamina": 25,
+        "bpm": 175,
         "difficulty": [9,16,23,27,"Ⅶ"],
         "singer": [
             "千寿いろは",
@@ -173,7 +235,11 @@
     },
     {
         "title": "暁星アストレーション",
+        "lylicist": "志村真白",
+        "composer": "志村真白",
+        "arranger": "志村真白",
         "stamina": 28,
+        "bpm": 200,
         "difficulty": [11,17,25,28,"Ⅴ"],
         "singer": [
             "カトリナ・グリーベル",
@@ -182,7 +248,11 @@
     },
     {
         "title": "幾億の星の空で",
+        "lylicist": "松井洋平",
+        "composer": "LiCu",
+        "arranger": "LiCu",
         "stamina": 26,
+        "bpm": 78,
         "difficulty": [6,13,19,23,"Ⅴ"],
         "singer": [
             "流石知冴",
@@ -191,7 +261,11 @@
     },
     {
         "title": "純粋と奔放",
+        "lylicist": "松井洋平",
+        "composer": "川崎智哉",
+        "arranger": "川崎智哉",
         "stamina": 33,
+        "bpm": 134,
         "difficulty": [7,14,20,25,"Ⅲ"],
         "singer": [
             "連尺野初魅",
@@ -200,7 +274,11 @@
     },
     {
         "title": "心という名の不可解",
+        "lylicist": "まふまふ",
+        "composer": "まふまふ",
+        "arranger": "-",
         "stamina": 31,
+        "bpm": 152,
         "difficulty": [9,17,24,27,"Ⅶ"],
         "singer": [
             "千寿暦"
@@ -208,7 +286,11 @@
     },
     {
         "title": "Snow halation",
+        "lylicist": "畑亜貴",
+        "composer": "山田高弘",
+        "arranger": "-",
         "stamina": 39,
+        "bpm":173,
         "difficulty": [8,15,21,26,"Ⅳ"],
         "singer": [
             "鳳ここな",
@@ -221,7 +303,11 @@
     },
     {
         "title": "フォニイ",
+        "lylicist": "ツミキ",
+        "composer": "ツミキ",
+        "arranger": "-",
         "stamina": 30,
+        "bpm": 170,
         "difficulty": [10,16,23,27,"Ⅵ"],
         "singer": [
             "舎人仁花子"
@@ -229,7 +315,11 @@
     },
     {
         "title": "怪物",
+        "lylicist": "Ayase",
+        "composer": "Ayase",
+        "arranger": "-",
         "stamina": 28,
+        "bpm": 170,
         "difficulty": [9,16,21,26,"Ⅳ"],
         "singer": [
             "筆島しぐれ"
@@ -237,7 +327,11 @@
     },
     {
         "title": "名前のない怪物",
+        "lylicist": "ryo",
+        "composer": "ryo",
+        "arranger": "-",
         "stamina": 35,
+        "bpm": 180,
         "difficulty": [7,15,22,26,"Ⅴ"],
         "singer": [
             "猫足蕾"
@@ -245,7 +339,11 @@
     },
     {
         "title": "Binary Star",
+        "lylicist": "志村真白",
+        "composer": "志村真白",
+        "arranger": "志村真白",
         "stamina": 28,
+        "bpm": 190,
         "difficulty": [9,16,21,26,"Ⅴ"],
         "singer": [
             "鳳ここな",
@@ -254,7 +352,11 @@
     },
     {
         "title": "六兆年と一夜物語",
+        "lylicist": "kemu",
+        "composer": "kemu",
+        "arranger": "-",
         "stamina": 34,
+        "bpm": 185,
         "difficulty": [12,18,26,29,"Ⅷ"],
         "singer": [
             "ラモーナ・ウォルフ"
@@ -262,7 +364,11 @@
     },
     {
         "title": "Decide",
+        "lylicist": "Giz'Mo",
+        "composer": "ArmySlick,Giz'Mo",
+        "arranger": "ArmySlick",
         "stamina": 26,
+        "bpm": 87,
         "difficulty": [6,13,18,24,"Ⅱ"],
         "singer": [
             "カトリナ・グリーベル"
@@ -270,7 +376,11 @@
     },
     {
         "title": "Shiny Smily Story",
+        "lylicist": "金丸佳史",
+        "composer": "中野領太",
+        "arranger": "-",
         "stamina": 42,
+        "bpm": 168,
         "difficulty": [7,16,22,26,"Ⅳ"],
         "singer": [
             "鳳ここな",
@@ -282,7 +392,11 @@
     },
     {
         "title": "Blondie Revenge Tragedy",
+        "lylicist": "松井洋平",
+        "composer": "山本玲史",
+        "arranger": "山本玲史",
         "stamina": 28,
+        "bpm": 145,
         "difficulty": [10,17,22,27,"Ⅴ"],
         "singer": [
             "烏森大黒"
@@ -290,7 +404,11 @@
     },
     {
         "title": "ウタカタメロディ",
+        "lylicist": "常楽寺澪",
+        "composer": "YUU for YOU, 常楽寺澪",
+        "arranger": "YUU for YOU",
         "stamina": 27,
+        "bpm": 132,
         "difficulty": [8,14,22,26,"Ⅳ"],
         "singer": [
             "王雪",
@@ -299,7 +417,11 @@
     },
     {
         "title": "変わらないもの",
+        "lylicist": "奥華子",
+        "composer": "奥華子",
+        "arranger": "-",
         "stamina": 32,
+        "bpm": 78,
         "difficulty": [5,11,18,23,"Ⅰ"],
         "singer": [
             "カトリナ・グリーベル"
@@ -307,7 +429,11 @@
     },
     {
         "title": "情熱リベレイション",
+        "lylicist": "松井洋平",
+        "composer": "光増ハジメ",
+        "arranger": "光増ハジメ",
         "stamina": 28,
+        "bpm": 193,
         "difficulty": [10,16,24,27,"Ⅵ"],
         "singer": [
             "千寿暦",
@@ -316,7 +442,11 @@
     },
     {
         "title": "Fernweh",
+        "lylicist": "志村真白",
+        "composer": "志村真白",
+        "arranger": "志村真白",
         "stamina": 26,
+        "bpm": 80,
         "difficulty": [5,12,19,24,"Ⅱ"],
         "singer": [
             "カトリナ・グリーベル"
@@ -324,7 +454,11 @@
     },
     {
         "title": "Realize",
+        "lylicist": "篠崎あやと、橘亮祐",
+        "composer": "篠崎あやと、橘亮祐",
+        "arranger": "-",
         "stamina": 38,
+        "bpm": 206,
         "difficulty": [12,18,25,29,"Ⅸ"],
         "singer": [
             "柳場ぱんだ"
@@ -332,7 +466,11 @@
     },
     {
         "title": "ANIMA",
+        "lylicist": "毛蟹",
+        "composer": "毛蟹",
+        "arranger": "-",
         "stamina": 38,
+        "bpm": 193,
         "difficulty": [10,15,23,18,"Ⅵ"],
         "singer": [
             "舎人仁花子"
@@ -340,7 +478,11 @@
     },
     {
         "title": "サマーバカンス☆アクトレス！",
+        "lylicist": "松井洋平",
+        "composer": "藤井健太郎",
+        "arranger": "藤井健太郎",
         "stamina": 29,
+        "bpm": 142,
         "difficulty": [9,16,22,26,"Ⅴ"],
         "singer": [
             "猫足蕾",
@@ -349,7 +491,11 @@
     },
     {
         "title": "魔法少女とチョコレゐト",
+        "lylicist": "ピノキオピー",
+        "composer": "ピノキオピー",
+        "arranger": "-",
         "stamina": 32,
+        "bpm": 150,
         "difficulty": [11,17,24,27,"Ⅶ"],
         "singer": [
             "本巣叶羽"

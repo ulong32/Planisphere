@@ -32,6 +32,40 @@
         .option-box > div{
             margin: 8px;
         }
+        .music-detail_box {
+            position: fixed;
+            inset: 0;
+            margin:auto;
+            box-shadow: 0 0 0 10000vmax rgb(0 0 0 / 50%);
+            z-index: 999;
+            background-color: whitesmoke;
+            width: 90%;
+            height: fit-content;
+            visibility: hidden;
+            opacity: 0;
+            padding: 16px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .music-detail_title {
+            font-size: x-large;
+            margin-bottom: 8px;
+        }
+        .music-detail_content {
+            border: 1px solid #000;
+            padding: 8px;
+            text-align: left;
+        }
+        .btn-close {
+            margin-top: 8px;
+            font-size: large;
+        }
+        #detailTitle {
+            font-size: large;
+        }
+        #detailSinger {
+            font-size: small;
+        }
     </style>
 </head>
 <body>
@@ -40,11 +74,13 @@
         <div>
             並び替え:
             <select id="selOrder">
-                <option value="default">デフォルト(配信日順)</option>
+                <option value="default" selected>デフォルト(配信日順)</option>
                 <option value="title_asc">曲名 - 昇順</option>
                 <option value="title_dsc">曲名 - 降順</option>
                 <option value="stamina_dsc">消費スタミナ - 多い順</option>
                 <option value="stamina_asc">消費スタミナ - 少ない順</option>
+                <option value="bpm_dsc">BPM - 早い順</option>
+                <option value="bpm_asc">BPM - 遅い順</option>
             </select>
         </div>
         <div>
@@ -69,5 +105,19 @@
         
     </div>
     <div class="music-container_box" id="divMusics"></div>
+    <div class="music-detail_box" id="divDetail">
+        <div class="music-detail_title">楽曲詳細</div>
+        <div class="music-detail_content">
+            <div id="detailTitle"></div>
+            <div id="detailSinger"></div>
+            <div id="detailLylicist"></div>
+            <div id="detailComposer"></div>
+            <div id="detailArranger"></div>
+            <div id="detailBPM"></div>
+            <div id="detailStamina"></div>
+            <div id="detailDifficulty"></div>
+        </div>
+        <button id="btnDetailClose" type="button" class="btn-close">閉じる</button>
+    </div>
 </body>
 </html>

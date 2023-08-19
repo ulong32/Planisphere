@@ -1,5 +1,5 @@
 function buildMusicList () {
-    let music;
+    let music = {};
     const divMusics = document.getElementById("divMusics");
     let divMusicItem;
     let divMusicTitle, divMusicStamina, divMusicSingers,divMusicDifficulties;
@@ -33,8 +33,61 @@ function buildMusicList () {
         divMusicItem.appendChild(divMusicStamina);
         divMusicItem.appendChild(divMusicDifficulties);
 
+        console.table(music);
+        divMusicItem.addEventListener("click", (e) => {
+            if(document.getElementById("divDetail").classList.contains("active") === false) {
+                showDetail(musicData[i]);
+                e.stopPropagation();
+            }
+        })
+
         divMusics.appendChild(divMusicItem);
     }
+}
+
+function showDetail(songInfo) {
+    const divDetail = document.getElementById("divDetail");
+    document.getElementById("detailTitle").textContent = songInfo.title;
+    document.getElementById("detailSinger").textContent = songInfo.singer.join(",");
+    document.getElementById("detailLylicist").textContent = "作詞: " + songInfo.lylicist;
+    document.getElementById("detailComposer").textContent = "作曲: " + songInfo.composer;
+    document.getElementById("detailArranger").textContent = "編曲: " + songInfo.arranger;
+    document.getElementById("detailBPM").textContent = "BPM: " + songInfo.bpm.toString();
+    document.getElementById("detailStamina").textContent = "スタミナ消費: " + songInfo.stamina.toString();
+    document.getElementById("detailDifficulty").textContent = "難易度: " + songInfo.difficulty.join(",");
+
+    divDetail.classList.add("active");
+    divDetail.animate(
+        {
+            transform: ["scale(0.05)", "scale(1)"],
+            visibility: ["hidden", "visible"],
+            opacity: [0,1]
+        },
+        {
+            duration: 150,
+            fill: "both",
+            easing: "ease"
+        }
+    )
+    window.addEventListener("click",(e) => {
+        const divDetail = document.getElementById("divDetail")
+        if(e.target.closest("#divDetail") === null && divDetail.classList.contains("active")) {
+            divDetail.classList.remove("active");
+            divDetail.animate(
+                {
+                    transform: ["scale(1)","scale(0.05)"],
+                    visibility: ["visible", "hidden"],
+                    opacity: [1,0]
+                },
+                {
+                    duration: 150,
+                    fill: "both",
+                    easing: "ease-out"
+                }
+            )
+            
+        }
+    });
 }
 
 document.getElementById("selOrder").addEventListener("change", function () {
@@ -54,6 +107,8 @@ document.getElementById("selOrder").addEventListener("change", function () {
     buildMusicList();
 })
 
+
+
 document.getElementById("selMulti").addEventListener("change", () => {
     buildMusicList();
 })
@@ -62,6 +117,21 @@ document.getElementById("numStamina").addEventListener("input", () => {
     buildMusicList();
 })
 
+document.getElementById("btnDetailClose").addEventListener("click", () => {
+    document.getElementById("divDetail").classList.remove("active");
+    divDetail.animate(
+        {
+            transform: ["scale(1)","scale(0.05)"],
+            visibility: ["visible", "hidden"],
+            opacity: [1,0]
+        },
+        {
+            duration: 150,
+            fill: "both",
+            easing: "ease-out"
+        }
+    )
+})
 
 const xhr = new XMLHttpRequest();
 xhr.open("GET","../data/musics.json", false);
