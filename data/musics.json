@@ -500,5 +500,42 @@
         "singer": [
             "本巣叶羽"
         ]
+    },
+    {
+        "title": "チューリングラブ",
+        "lylicist": "ナユタセイジ / ナナヲアカリ",
+        "composer": "ナユタセイジ",
+        "arranger": "-",
+        "stamina": 30,
+        "bpm": 142,
+        "difficulty": [7,15,22,25,"Ⅳ"],
+        "singer": [
+            "リリヤ・クルトベイ",
+            "ラモーナ・ウォルフ"
+        ]
+    },
+    {
+        "title": "てぃだんちゅ MEETS てぃんがーら！",
+        "lylicist": "松井洋平",
+        "composer": "尾崎廉(SUPA LOVE)",
+        "arranger": "尾崎廉(SUPA LOVE)",
+        "stamina": 27,
+        "bpm": 150,
+        "difficulty": [8,15,21,26,"Ⅴ"],
+        "singer": [
+            "与那国緋花里"
+        ]
+    },
+    {
+        "title": "パーティー・ジョーク・シンデレラ",
+        "lylicist": "松井洋平",
+        "composer": "由良祟将",
+        "arranger": "由良祟将",
+        "stamina": 29,
+        "bpm": 100,
+        "difficulty": [7,14,20,24,"Ⅲ"],
+        "singer": [
+            "新妻八恵"
+        ]
     }
 ]
