@@ -21,6 +21,6 @@ window.addEventListener("DOMContentLoaded", () => {
 function buildCharaDetail(charaData) {
     console.log("build");
     const charaDetailArea = document.createElement("div");
-    charaDetailArea.innerText = JSON.stringify(charaData);
+    charaDetailArea.innerText = JSON.stringify(charaData,null,2);
     document.getElementById("chara-container").appendChild(charaDetailArea);
 }

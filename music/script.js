@@ -35,7 +35,7 @@ function buildMusicList () {
 
         console.table(music);
         divMusicItem.addEventListener("click", (e) => {
-            if(document.getElementById("divDetail").classList.contains("active") === false) {
+            if(document.getElementById("divDetail").classList.contains("activeElm") === false) {
                 showDetail(musicData[i]);
                 e.stopPropagation();
             }
@@ -56,7 +56,8 @@ function showDetail(songInfo) {
     document.getElementById("detailStamina").textContent = "スタミナ消費: " + songInfo.stamina.toString();
     document.getElementById("detailDifficulty").textContent = "難易度: " + songInfo.difficulty.join(",");
 
-    divDetail.classList.add("active");
+    console.log("activate")
+    divDetail.classList.add("activeElm");
     divDetail.animate(
         {
             transform: ["scale(0.05)", "scale(1)"],
@@ -71,8 +72,8 @@ function showDetail(songInfo) {
     )
     window.addEventListener("click",(e) => {
         const divDetail = document.getElementById("divDetail")
-        if(e.target.closest("#divDetail") === null && divDetail.classList.contains("active")) {
-            divDetail.classList.remove("active");
+        if(e.target.closest("#divDetail") === null && divDetail.classList.contains("activeElm")) {
+            divDetail.classList.remove("activeElm");
             divDetail.animate(
                 {
                     transform: ["scale(1)","scale(0.05)"],
@@ -85,7 +86,7 @@ function showDetail(songInfo) {
                     easing: "ease-out"
                 }
             )
-            
+
         }
     });
 }
@@ -118,7 +119,7 @@ document.getElementById("numStamina").addEventListener("input", () => {
 })
 
 document.getElementById("btnDetailClose").addEventListener("click", () => {
-    document.getElementById("divDetail").classList.remove("active");
+    document.getElementById("divDetail").classList.remove("activeElm");
     divDetail.animate(
         {
             transform: ["scale(1)","scale(0.05)"],

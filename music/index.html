@@ -4,19 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>楽曲一覧 - Planisphere</title>
-    <link rel="stylesheet" href="../css/reset.min.css">
     <script src="./script.js" defer></script>
+    <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        body {
-            font-family: sans-serif;
-        }
-        .music-container_box {
-            margin: 8px;
-            background-color: whitesmoke;
-            padding-top: 4px;
-            padding-bottom: 4px;
-            border-radius: 4px;
-        }
         .music-container_item {
             border: 1px solid #999;
             margin: 8px;
@@ -24,48 +14,12 @@
             border-radius: 4px;
             cursor: pointer;
         }
-        .music-item_title {
-            font-size: large;
-        }
-        .music-item_singer {
-            font-size: small;
-        }
         .option-box > div{
             margin: 8px;
         }
-        .music-detail_box {
-            position: fixed;
-            inset: 0;
-            margin:auto;
-            box-shadow: 0 0 0 10000vmax rgb(0 0 0 / 50%);
-            z-index: 999;
-            background-color: whitesmoke;
-            width: 90%;
-            height: fit-content;
-            visibility: hidden;
-            opacity: 0;
-            padding: 16px;
-            border-radius: 8px;
-            text-align: center;
-        }
-        .music-detail_title {
-            font-size: x-large;
-            margin-bottom: 8px;
-        }
-        .music-detail_content {
-            border: 1px solid #000;
-            padding: 8px;
-            text-align: left;
-        }
-        .btn-close {
-            margin-top: 8px;
-            font-size: large;
-        }
-        #detailTitle {
-            font-size: large;
-        }
-        #detailSinger {
-            font-size: small;
+        .activeElm {
+            visibility: visible!important;
+            opacity: 1!important;
         }
     </style>
 </head>
@@ -103,14 +57,14 @@
             現在スタミナ:
             <input type="number" style="width: 64px;" id="numStamina" value="300">
         </div>
-        
+
     </div>
-    <div class="music-container_box" id="divMusics"></div>
-    <div class="music-detail_box" id="divDetail">
-        <div class="music-detail_title">楽曲詳細</div>
-        <div class="music-detail_content">
-            <div id="detailTitle"></div>
-            <div id="detailSinger"></div>
+    <div class="m-3 bg-neutral-100 p-1 rounded" id="divMusics"></div>
+    <div class="fixed inset-0 m-auto shadow-2xl z-50 bg-white w-11/12 h-fit invisible opacity-0 rounded text-center" id="divDetail">
+        <div class="text-xl m-3">楽曲詳細</div>
+        <div class="border-solid border-2 border-slate-800 p-3 m-3 rounded">
+            <div id="detailTitle" class="text-lg"></div>
+            <div id="detailSinger" class="text-sm"></div>
             <div id="detailLylicist"></div>
             <div id="detailComposer"></div>
             <div id="detailArranger"></div>
@@ -118,7 +72,7 @@
             <div id="detailStamina"></div>
             <div id="detailDifficulty"></div>
         </div>
-        <button id="btnDetailClose" type="button" class="btn-close">閉じる</button>
+        <button id="btnDetailClose" type="button" class="m-2 p-1 text-lg border-2 rounded">閉じる</button>
     </div>
 </body>
 </html>
