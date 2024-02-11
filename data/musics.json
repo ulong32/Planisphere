@@ -537,5 +537,566 @@
         "singer": [
             "新妻八恵"
         ]
+    },
+    {
+        "title": "可愛くてごめん",
+        "lylicist": "shito",
+        "composer": "shito",
+        "arranger": "-",
+        "stamina": 33,
+        "bpm": -1,
+        "difficulty": [8,15,21,26,"-"],
+        "singer": [
+            "阿岐留カミラ"
+        ]
+    },
+    {
+        "title": "夏の夜空に光る雪",
+        "lylicist": "松井洋平",
+        "composer": "鈴木裕明(SUPA LOVE)",
+        "arranger": "鈴木裕明(SUPA LOVE)",
+        "stamina": 28,
+        "bpm": -1,
+        "difficulty": [7,14,21,25,"-"],
+        "singer": [
+            "王雪",
+            "リリヤ・クルトベイ"
+        ]
+    },
+    {
+        "title": "シル・ヴ・プレジデント",
+        "lylicist": "ナナホシ管弦楽団",
+        "composer": "岩見陸",
+        "arranger": "-",
+        "stamina": 31,
+        "bpm": -1,
+        "difficulty": [10,17,23,28,"-"],
+        "singer": [
+            "阿岐留カミラ",
+            "与那国緋花里"
+        ]
+    },
+    {
+        "title": "DAYBREAK FRONTLINE",
+        "lylicist": "Orangestar",
+        "composer": "Orangestar",
+        "arranger": "-",
+        "stamina": 36,
+        "bpm": -1,
+        "difficulty": [9,14,24,26,"-"],
+        "singer": [
+            "流石知冴"
+        ]
+    },
+    {
+        "title": "ひとりの夜のフィルモグラフィー",
+        "lylicist": "松井洋平",
+        "composer": "YAS",
+        "arranger": "YAS",
+        "stamina": 34,
+        "bpm": -1,
+        "difficulty": [8,12,19,24,"-"],
+        "singer": [
+            "白丸美兎"
+        ]
+    },
+    {
+        "title": "Black Diary",
+        "lylicist": "松井洋平",
+        "composer": "山本玲史",
+        "arranger": "山本玲史",
+        "stamina": 31,
+        "bpm": -1,
+        "difficulty": [7,13,20,26,"-"],
+        "singer": [
+            "烏森大黒"
+        ]
+    },
+    {
+        "title": "Pandastic Stage!",
+        "lylicist": "松井洋平",
+        "composer": "志村真白",
+        "arranger": "志村真白",
+        "stamina": 28,
+        "bpm": -1,
+        "difficulty": [9,15,21,25,"-"],
+        "singer": [
+            "柳場ぱんだ"
+        ]
+    },
+    {
+        "title": "フレーフレー・ファンファーレ！",
+        "lylicist": "松井洋平",
+        "composer": "EFFY",
+        "arranger": "EFFY",
+        "stamina": 30,
+        "bpm": -1,
+        "difficulty": [8,16,21,26,"-"],
+        "singer": [
+            "舎人仁花子",
+            "萬容"
+        ]
+    },
+    {
+        "title": "トウキョウ・シャンディ・ランデヴ",
+        "lylicist": "ツミキ",
+        "composer": "ツミキ",
+        "arranger": "-",
+        "stamina": 31,
+        "bpm": -1,
+        "difficulty": [7,16,22,26,"-"],
+        "singer": [
+            "萬容"
+        ]
+    },
+    {
+        "title": "血を着飾る栄華のために",
+        "lylicist": "松井洋平",
+        "composer": "古河夕",
+        "arranger": "古河夕",
+        "stamina": 30,
+        "bpm": -1,
+        "difficulty": [8,16,23,28,"-"],
+        "singer": [
+            "千寿暦",
+            "連尺野初魅"
+        ]
+    },
+    {
+        "title": "巡る暦の花のように",
+        "lylicist": "松井洋平",
+        "composer": "光増ハジメ（FirstCall）",
+        "arranger": "光増ハジメ（FirstCall）",
+        "stamina": 28,
+        "bpm": -1,
+        "difficulty": [6,12,19,24,"-"],
+        "singer": [
+            "千寿暦"
+        ]
+    },
+    {
+        "title": "革命ダンス",
+        "lylicist": "志村真白",
+        "composer": "志村真白",
+        "arranger": "志村真白",
+        "stamina": 30,
+        "bpm": -1,
+        "difficulty": [10,17,24,27,"-"],
+        "singer": [
+            "柳場ぱんだ",
+            "与那国緋花里"
+        ]
+    },
+    {
+        "title": "adrenaline!!!",
+        "lylicist": "中野領太",
+        "composer": "中野領太",
+        "arranger": "-",
+        "stamina": 29,
+        "bpm": -1,
+        "difficulty": [7,14,21,25,"-"],
+        "singer": [
+            "新妻八恵",
+            "本巣叶羽"
+        ]
+    },
+    {
+        "title": "Surges",
+        "lylicist": "Orangestar",
+        "composer": "Orangestar",
+        "arranger": "-",
+        "stamina": 30,
+        "bpm": -1,
+        "difficulty": [8,14,24,27,"-"],
+        "singer": [
+            "王雪",
+            "与那国緋花里"
+        ]
+    },
+    {
+        "title": "きらり！マジカリュー・スマイル！",
+        "lylicist": "松井洋平",
+        "composer": "光増ハジメ（FirstCall）",
+        "arranger": "光増ハジメ（FirstCall）",
+        "stamina": 26,
+        "bpm": -1,
+        "difficulty": [9,15,21,26,"-"],
+        "singer": [
+            "千寿いろは",
+            "白丸美兎",
+            "阿岐留カミラ",
+            "猫足蕾",
+            "本巣叶羽"
+        ]
+    },
+    {
+        "title": "プレイ・マイ・フェイバリット!!",
+        "lylicist": "松井洋平",
+        "composer": "早川博隆",
+        "arranger": "柿迫ヒカル、早川博隆",
+        "stamina": 36,
+        "bpm": -1,
+        "difficulty": [9,17,22,25,"-"],
+        "singer": [
+            "千寿いろは",
+            "白丸美兎"
+        ]
+    },
+    {
+        "title": "マイ・ピクチャー・ストーリー",
+        "lylicist": "松井洋平",
+        "composer": "光増ハジメ（FirstCall）",
+        "arranger": "光増ハジメ（FirstCall）",
+        "stamina": 28,
+        "bpm": -1,
+        "difficulty": [8,14,22,26,"-"],
+        "singer": [
+            "鳳ここな"
+        ]
+    },
+    {
+        "title": "Forbidden Fruit Addiction",
+        "lylicist": "松井洋平",
+        "composer": "LiCu（FirstCall）",
+        "arranger": "LiCu（FirstCall）",
+        "stamina": 27,
+        "bpm": -1,
+        "difficulty": [8,15,22,26,"-"],
+        "singer": [
+            "筆島しぐれ"
+        ]
+    },
+    {
+        "title": "トゥインクル・トゥインクル・スクールデイズ！",
+        "lylicist": "松井洋平",
+        "composer": "EFFY（FirstCall）",
+        "arranger": "EFFY（FirstCall）",
+        "stamina": 29,
+        "bpm": -1,
+        "difficulty": [7,12,21,25,"-"],
+        "singer": [
+            "新妻八恵",
+            "筆島しぐれ",
+            "本巣叶羽"
+        ]
+    },
+    {
+        "title": "夢のステラリウム",
+        "lylicist": "松井洋平",
+        "composer": "光増ハジメ（FirstCall）",
+        "arranger": "光増ハジメ（FirstCall）",
+        "stamina": 26,
+        "bpm": -1,
+        "difficulty": [7,15,22,26,"-"],
+        "singer": [
+            "鳳ここな",
+            "静香",
+            "カトリナ・グリーベル",
+            "新妻八恵",
+            "柳場ぱんだ",
+            "流石知冴",
+            "連尺野初魅",
+            "烏森大黒",
+            "舎人仁花子",
+            "萬容",
+            "筆島しぐれ",
+            "千寿暦",
+            "ラモーナ・ウォルフ",
+            "王雪",
+            "リリヤ・クルトベイ",
+            "与那国緋花里",
+            "千寿いろは",
+            "白丸美兎",
+            "阿岐留カミラ",
+            "猫足蕾",
+            "本巣叶羽"
+        ]
+    },
+    {
+        "title": "幻日ミステリウム",
+        "lylicist": "畑 亜貴",
+        "composer": "酒井拓也(Arte Refact) , 山本恭平(Arte Refact)",
+        "arranger": "-",
+        "stamina": 36,
+        "bpm": -1,
+        "difficulty": [8,15,24,27,"-"],
+        "singer": [
+            "千寿いろは",
+            "白丸美兎",
+            "阿岐留カミラ",
+            "猫足蕾",
+            "本巣叶羽"
+        ]
+    },
+    {
+        "title": "So long, Say Goodbye",
+        "lylicist": "松井洋平",
+        "composer": "EFFY（FirstCall）",
+        "arranger": "EFFY（FirstCall）",
+        "stamina": 26,
+        "bpm": -1,
+        "difficulty": [5,11,19,24,"-"],
+        "singer": [
+            "ラモーナ・ウォルフ"
+        ]
+    },
+    {
+        "title": "かくれんぼ",
+        "lylicist": "TKT",
+        "composer": "EREN",
+        "arranger": "-",
+        "stamina": 32,
+        "bpm": -1,
+        "difficulty": [9,16,22,26,"-"],
+        "singer": [
+            "連尺野初魅"
+        ]
+    },
+    {
+        "title": "ちいさないのちのさけるばしょ",
+        "lylicist": "松井洋平",
+        "composer": "山本玲史",
+        "arranger": "山本玲史",
+        "stamina": 26,
+        "bpm": -1,
+        "difficulty": [7,14,21,26,"-"],
+        "singer": [
+            "萬容",
+            "烏森大黒"
+        ]
+    },
+    {
+        "title": "いろはうたBLOOMING",
+        "lylicist": "松井洋平",
+        "composer": "光増ハジメ（FirstCall）",
+        "arranger": "光増ハジメ（FirstCall）",
+        "stamina": 26,
+        "bpm": -1,
+        "difficulty": [7,13,21,24,"-"],
+        "singer": [
+            "千寿いろは"
+        ]
+    },
+    {
+        "title": "こんなに素晴らしい世界で",
+        "lylicist": "志村真白（FirstCall）",
+        "composer": "志村真白（FirstCall）",
+        "arranger": "志村真白（FirstCall）",
+        "stamina": 30,
+        "bpm": -1,
+        "difficulty": [7,14,22,25,"-"],
+        "singer": [
+            "与那国緋花里",
+            "阿岐留カミラ"
+        ]
+    },
+    {
+        "title": "Get to Act Life♡",
+        "lylicist": "友希",
+        "composer": "友希",
+        "arranger": "EFFY（FirstCall）",
+        "stamina": 28,
+        "bpm": -1,
+        "difficulty": [8,15,23,28,"-"],
+        "singer": [
+            "阿岐留カミラ"
+        ]
+    },
+    {
+        "title": "あの夏が飽和する。",
+        "lylicist": "カンザキイオリ",
+        "composer": "カンザキイオリ",
+        "arranger": "-",
+        "stamina": 31,
+        "bpm": -1,
+        "difficulty": [6,12,21,25,"-"],
+        "singer": [
+            "烏森大黒"
+        ]
+    },
+    {
+        "title": "Stellar Stellar",
+        "lylicist": "星街すいせい",
+        "composer": "TAKU INOUE",
+        "arranger": "-",
+        "stamina": 31,
+        "bpm": -1,
+        "difficulty": [9,16,23,27,"-"],
+        "singer": [
+            "静香"
+        ]
+    },
+    {
+        "title": "小さな奇跡の降る夜に",
+        "lylicist": "松井洋平",
+        "composer": "松坂康司",
+        "arranger": "松坂康司",
+        "stamina": 27,
+        "bpm": -1,
+        "difficulty": [6,14,20,25,"-"],
+        "singer": [
+            "リリヤ・クルトベイ",
+            "ラモーナ・ウォルフ"
+        ]
+    },
+    {
+        "title": "不可逆的運命ディストピア",
+        "lylicist": "志村真白（FirstCall）",
+        "composer": "志村真白（FirstCall）",
+        "arranger": "志村真白（FirstCall）",
+        "stamina": 30,
+        "bpm": -1,
+        "difficulty": [12,18,25,27,"-"],
+        "singer": [
+            "猫足蕾"
+        ]
+    },
+    {
+        "title": "HAPPY NEW SHOW TIME!",
+        "lylicist": "松井洋平",
+        "composer": "光増ハジメ（FirstCall）",
+        "arranger": "光増ハジメ（FirstCall）",
+        "stamina": 29,
+        "bpm": -1,
+        "difficulty": [9,16,22,26,"-"],
+        "singer": [
+            "カトリナ・グリーベル",
+            "鳳ここな",
+            "静香"
+        ]
+    },
+    {
+        "title": "アスノヨゾラ哨戒班",
+        "lylicist": "Orangestar",
+        "composer": "Orangestar",
+        "arranger": "-",
+        "stamina": 31,
+        "bpm": -1,
+        "difficulty": [10,17,23,26,"-"],
+        "singer": [
+            "猫足蕾"
+        ]
+    },
+    {
+        "title": "アンプレザント・ライン",
+        "lylicist": "松井洋平",
+        "composer": "浅利進吾",
+        "arranger": "浅利進吾",
+        "stamina": 26,
+        "bpm": -1,
+        "difficulty": [6,15,22,25,"-"],
+        "singer": [
+            "筆島しぐれ"
+        ]
+    },
+    {
+        "title": "ウタカタララバイ",
+        "lylicist": "FAKE TYPE.",
+        "composer": "FAKE TYPE.",
+        "arranger": "-",
+        "stamina": 32,
+        "bpm": -1,
+        "difficulty": [9,17,25,27,"-"],
+        "singer": [
+            "連尺野初魅"
+        ]
+    },
+    {
+        "title": "アイ・ウィル！",
+        "lylicist": "志村真白（FirstCall）",
+        "composer": "志村真白（FirstCall）",
+        "arranger": "志村真白（FirstCall）",
+        "stamina": 26,
+        "bpm": -1,
+        "difficulty": [8,15,22,25,"-"],
+        "singer": [
+            "鳳ここな"
+        ]
+    },
+    {
+        "title": "Rolling Stone",
+        "lylicist": "松井洋平",
+        "composer": "古河夕",
+        "arranger": "古河夕",
+        "stamina": 23,
+        "bpm": -1,
+        "difficulty": [8,16,22,26,"-"],
+        "singer": [
+            "流石知冴"
+        ]
+    },
+    {
+        "title": "Eternity",
+        "lylicist": "唐沢美帆",
+        "composer": "山本玲史",
+        "arranger": "山本玲史",
+        "stamina": 24,
+        "bpm": -1,
+        "difficulty": [5,12,19,24,"-"],
+        "singer": [
+            "筆島しぐれ"
+        ]
+    },
+    {
+        "title": "電脳スペクタクル",
+        "lylicist": "志村真白（FirstCall）",
+        "composer": "志村真白（FirstCall）",
+        "arranger": "志村真白（FirstCall）",
+        "stamina": 27,
+        "bpm": -1,
+        "difficulty": [12,18,26,30,"-"],
+        "singer": [
+            "猫足蕾",
+            "阿岐留カミラ"
+        ]
+    },
+    {
+        "title": "フタリノスタルジア",
+        "lylicist": "志村真白（FirstCall）",
+        "composer": "志村真白（FirstCall）",
+        "arranger": "志村真白（FirstCall）",
+        "stamina": 35,
+        "bpm": -1,
+        "difficulty": [6,14,21,25,"-"],
+        "singer": [
+            "静香",
+            "鳳ここな"
+        ]
+    },
+    {
+        "title": "Crystal Bell",
+        "lylicist": "松井洋平",
+        "composer": "光増ハジメ（FirstCall）",
+        "arranger": "光増ハジメ（FirstCall）",
+        "stamina": 28,
+        "bpm": -1,
+        "difficulty": [7,14,20,24,"-"],
+        "singer": [
+            "リリヤ・クルトベイ"
+        ]
+    },
+    {
+        "title": "ただ声一つ",
+        "lylicist": "MIMI",
+        "composer": "MIMI",
+        "arranger": "-",
+        "stamina": 32,
+        "bpm": -1,
+        "difficulty": [7,14,20,25,"-"],
+        "singer": [
+            "白丸美兎"
+        ]
+    },
+    {
+        "title": "St. Bitter Sweet",
+        "lylicist": "松井洋平",
+        "composer": "光増ハジメ（FirstCall）",
+        "arranger": "光増ハジメ（FirstCall）",
+        "stamina": 26,
+        "bpm": -1,
+        "difficulty": [7,15,22,26,"-"],
+        "singer": [
+            "連尺野初魅"
+        ]
     }
 ]
