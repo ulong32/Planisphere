@@ -688,6 +688,7 @@
     },
     {
         "title": "トウキョウ・シャンディ・ランデヴ",
+        "titleKana": "とうきょうしゃんでぃらんでゔ",
         "lylicist": "ツミキ",
         "composer": "ツミキ",
         "arranger": "-",
@@ -700,6 +701,7 @@
     },
     {
         "title": "血を着飾る栄華のために",
+        "titleKana": "ちをきかざるえいがのために",
         "lylicist": "松井洋平",
         "composer": "古河夕",
         "arranger": "古河夕",
@@ -713,6 +715,7 @@
     },
     {
         "title": "巡る暦の花のように",
+        "titleKana": "めぐるこよみのはなのように",
         "lylicist": "松井洋平",
         "composer": "光増ハジメ（FirstCall）",
         "arranger": "光増ハジメ（FirstCall）",
@@ -725,6 +728,7 @@
     },
     {
         "title": "革命ダンス",
+        "titleKana": "かくめいだんす",
         "lylicist": "志村真白",
         "composer": "志村真白",
         "arranger": "志村真白",
@@ -738,6 +742,7 @@
     },
     {
         "title": "adrenaline!!!",
+        "titleKana": "あどれなりん",
         "lylicist": "中野領太",
         "composer": "中野領太",
         "arranger": "-",
@@ -751,6 +756,7 @@
     },
     {
         "title": "Surges",
+        "titleKana": "さーじゃす",
         "lylicist": "Orangestar",
         "composer": "Orangestar",
         "arranger": "-",
@@ -764,6 +770,7 @@
     },
     {
         "title": "きらり！マジカリュー・スマイル！",
+        "titleKana": "きらりまじかりゅーすまいる",
         "lylicist": "松井洋平",
         "composer": "光増ハジメ（FirstCall）",
         "arranger": "光増ハジメ（FirstCall）",
@@ -780,6 +787,7 @@
     },
     {
         "title": "プレイ・マイ・フェイバリット!!",
+        "titleKana": "ぷれいまいふぇいばりっと",
         "lylicist": "松井洋平",
         "composer": "早川博隆",
         "arranger": "柿迫ヒカル、早川博隆",
@@ -793,6 +801,7 @@
     },
     {
         "title": "マイ・ピクチャー・ストーリー",
+        "titleKana": "まいぴくちゃーすとーりー",
         "lylicist": "松井洋平",
         "composer": "光増ハジメ（FirstCall）",
         "arranger": "光増ハジメ（FirstCall）",
@@ -805,6 +814,7 @@
     },
     {
         "title": "Forbidden Fruit Addiction",
+        "titleKana": "ふぉーびどぅんふるーとあでぃくしょん",
         "lylicist": "松井洋平",
         "composer": "LiCu（FirstCall）",
         "arranger": "LiCu（FirstCall）",
@@ -817,6 +827,7 @@
     },
     {
         "title": "トゥインクル・トゥインクル・スクールデイズ！",
+        "titleKana": "とぅいんくるとぅいんくるすくーるでいず",
         "lylicist": "松井洋平",
         "composer": "EFFY（FirstCall）",
         "arranger": "EFFY（FirstCall）",
@@ -831,6 +842,7 @@
     },
     {
         "title": "夢のステラリウム",
+        "titleKana": "ゆめのすてらりうむ",
         "lylicist": "松井洋平",
         "composer": "光増ハジメ（FirstCall）",
         "arranger": "光増ハジメ（FirstCall）",
@@ -863,6 +875,7 @@
     },
     {
         "title": "幻日ミステリウム",
+        "titleKana": "げんじつみすてりうむ",
         "lylicist": "畑 亜貴",
         "composer": "酒井拓也(Arte Refact) , 山本恭平(Arte Refact)",
         "arranger": "-",
@@ -879,6 +892,7 @@
     },
     {
         "title": "So long, Say Goodbye",
+        "titleKana": "そーろんぐせいぐっばい",
         "lylicist": "松井洋平",
         "composer": "EFFY（FirstCall）",
         "arranger": "EFFY（FirstCall）",
@@ -891,6 +905,7 @@
     },
     {
         "title": "かくれんぼ",
+        "titleKana": "かくれんぼ",
         "lylicist": "TKT",
         "composer": "EREN",
         "arranger": "-",
@@ -903,6 +918,7 @@
     },
     {
         "title": "ちいさないのちのさけるばしょ",
+        "titleKana": "ちいさないのちのさけるばしょ",
         "lylicist": "松井洋平",
         "composer": "山本玲史",
         "arranger": "山本玲史",
@@ -916,6 +932,7 @@
     },
     {
         "title": "いろはうたBLOOMING",
+        "titleKana": "いろはうたぶるーみんぐ",
         "lylicist": "松井洋平",
         "composer": "光増ハジメ（FirstCall）",
         "arranger": "光増ハジメ（FirstCall）",
@@ -928,6 +945,7 @@
     },
     {
         "title": "こんなに素晴らしい世界で",
+        "titleKana": "こんなにすばらしいせかいで",
         "lylicist": "志村真白（FirstCall）",
         "composer": "志村真白（FirstCall）",
         "arranger": "志村真白（FirstCall）",
@@ -941,6 +959,7 @@
     },
     {
         "title": "Get to Act Life♡",
+        "titleKana": "げっととぅあくとらいふ",
         "lylicist": "友希",
         "composer": "友希",
         "arranger": "EFFY（FirstCall）",
@@ -953,6 +972,7 @@
     },
     {
         "title": "あの夏が飽和する。",
+        "titleKana": "あのなつがほうわする",
         "lylicist": "カンザキイオリ",
         "composer": "カンザキイオリ",
         "arranger": "-",
@@ -965,6 +985,7 @@
     },
     {
         "title": "Stellar Stellar",
+        "titleKana": "すてらーすてらー",
         "lylicist": "星街すいせい",
         "composer": "TAKU INOUE",
         "arranger": "-",
@@ -977,6 +998,7 @@
     },
     {
         "title": "小さな奇跡の降る夜に",
+        "tirleKana": "ちいさなきせきのふるよるに",
         "lylicist": "松井洋平",
         "composer": "松坂康司",
         "arranger": "松坂康司",
@@ -990,6 +1012,7 @@
     },
     {
         "title": "不可逆的運命ディストピア",
+        "titleKana": "ふかぎゃくてきうんめいでぃすとぴあ",
         "lylicist": "志村真白（FirstCall）",
         "composer": "志村真白（FirstCall）",
         "arranger": "志村真白（FirstCall）",
@@ -1002,6 +1025,7 @@
     },
     {
         "title": "HAPPY NEW SHOW TIME!",
+        "titleKana": "はっぴーにゅーしょーたいむ",
         "lylicist": "松井洋平",
         "composer": "光増ハジメ（FirstCall）",
         "arranger": "光増ハジメ（FirstCall）",
@@ -1016,6 +1040,7 @@
     },
     {
         "title": "アスノヨゾラ哨戒班",
+        "titleKana": "あすのよぞらしょうかいはん",
         "lylicist": "Orangestar",
         "composer": "Orangestar",
         "arranger": "-",
@@ -1028,6 +1053,7 @@
     },
     {
         "title": "アンプレザント・ライン",
+        "titleKana": "あんぷれざんとらいん",
         "lylicist": "松井洋平",
         "composer": "浅利進吾",
         "arranger": "浅利進吾",
@@ -1040,6 +1066,7 @@
     },
     {
         "title": "ウタカタララバイ",
+        "titleKana": "うたかたららばい",
         "lylicist": "FAKE TYPE.",
         "composer": "FAKE TYPE.",
         "arranger": "-",
@@ -1052,6 +1079,7 @@
     },
     {
         "title": "アイ・ウィル！",
+        "titleKana": "あいうぃる",
         "lylicist": "志村真白（FirstCall）",
         "composer": "志村真白（FirstCall）",
         "arranger": "志村真白（FirstCall）",
@@ -1064,6 +1092,7 @@
     },
     {
         "title": "Rolling Stone",
+        "titleKana": "ろーりんぐすとーん",
         "lylicist": "松井洋平",
         "composer": "古河夕",
         "arranger": "古河夕",
@@ -1076,6 +1105,7 @@
     },
     {
         "title": "Eternity",
+        "titleKana": "えたにてぃ",
         "lylicist": "唐沢美帆",
         "composer": "山本玲史",
         "arranger": "山本玲史",
@@ -1088,6 +1118,7 @@
     },
     {
         "title": "電脳スペクタクル",
+        "titleKana": "でんのうすぺくたくる",
         "lylicist": "志村真白（FirstCall）",
         "composer": "志村真白（FirstCall）",
         "arranger": "志村真白（FirstCall）",
@@ -1101,6 +1132,7 @@
     },
     {
         "title": "フタリノスタルジア",
+        "titleKana": "ふたりのすたるじあ",
         "lylicist": "志村真白（FirstCall）",
         "composer": "志村真白（FirstCall）",
         "arranger": "志村真白（FirstCall）",
@@ -1114,6 +1146,7 @@
     },
     {
         "title": "Crystal Bell",
+        "titleKana": "くりすたるべる",
         "lylicist": "松井洋平",
         "composer": "光増ハジメ（FirstCall）",
         "arranger": "光増ハジメ（FirstCall）",
@@ -1126,6 +1159,7 @@
     },
     {
         "title": "ただ声一つ",
+        "titleKana": "ただこえひとつ",
         "lylicist": "MIMI",
         "composer": "MIMI",
         "arranger": "-",
@@ -1138,6 +1172,7 @@
     },
     {
         "title": "St. Bitter Sweet",
+        "titleKana": "せいんとびたーすいーと",
         "lylicist": "松井洋平",
         "composer": "光増ハジメ（FirstCall）",
         "arranger": "光増ハジメ（FirstCall）",
