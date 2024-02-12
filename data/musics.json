@@ -1,6 +1,7 @@
 [
     {
         "title": "ワナビスタ！",
+        "titleKana": "わなびすた",
         "lylicist": "松井洋平",
         "composer": "光増ハジメ（FirstCall）",
         "arranger": "EFFY（FirstCall）",
@@ -19,6 +20,7 @@
     },
     {
         "title": "トゥ・オブ・アス",
+        "titleKana": "とぅおぶあす",
         "lylicist": "松井洋平",
         "composer": "由良祟将",
         "arranger": "EFFY（FirstCall）",
@@ -33,6 +35,7 @@
     },
     {
         "title": "勿忘唄",
+        "titleKana": "わすれなうた",
         "lylicist": "志村真白",
         "composer": "志村真白",
         "arranger": "志村真白",
@@ -46,6 +49,7 @@
     },
     {
         "title": "夢見月夜",
+        "titleKana": "ゆめみづきよ",
         "lylicist": "志村真白",
         "composer": "LiCu",
         "arranger": "志村真白",
@@ -58,6 +62,7 @@
     },
     {
         "title": "悠久月華",
+        "titleKana": "ゆうきゅうげっか",
         "lylicist": "志村真白",
         "composer": "志村真白",
         "arranger": "志村真白",
@@ -69,6 +74,7 @@
         ]
     },{
         "title": "ダイヤモンドの誓い",
+        "titleKana": "だいやもんどのちかい",
         "lylicist": "大木貢佑",
         "composer": "森田友梨",
         "arranger": "森田友梨",
@@ -81,6 +87,7 @@
     },
     {
         "title": "魔法のラストノート",
+        "titleKana": "まほうのらすとのーと",
         "lylicist": "大木貢佑",
         "composer": "藤井健太郎(HANO)",
         "arranger": "藤井健太郎(HANO)",
@@ -93,6 +100,7 @@
     },
     {
         "title": "New Nostalgic Friend",
+        "titleKana": "にゅーのすたるじっくふれんど",
         "lylicist": "大木貢佑",
         "composer": "叶人・矢野達也",
         "arranger": "矢野達也",
@@ -106,6 +114,7 @@
     },
     {
         "title": "Drawing World",
+        "titleKana": "どろーいんぐわーるど",
         "lylicist": "大木貢佑",
         "composer": "ふじそば",
         "arranger": "ふじそば",
@@ -120,6 +129,7 @@
     },
     {
         "title": "名もなき恋人よ",
+        "titleKana": "なもなきこいびとよ",
         "lylicist": "松井洋平",
         "composer": "塩原大貴（SUPA LOVE）",
         "arranger": "塩原大貴（SUPA LOVE）",
@@ -133,6 +143,7 @@
     },
     {
         "title": "Etoile",
+        "titleKana": "えとわーる",
         "lylicist": "唐沢美帆",
         "composer": "Ryu",
         "arranger": "Ryu",
@@ -145,6 +156,7 @@
     },
     {
         "title": "Masquerade",
+        "titleKana": "ますかれーど",
         "lylicist": "唐沢美帆",
         "composer": "山田竜平",
         "arranger": "山田竜平",
@@ -158,6 +170,7 @@
     },
     {
         "title": "Farewell Song",
+        "titleKana": "ふぇあうぇるそんぐ",
         "lylicist": "唐沢美帆",
         "composer": "SHIBU",
         "arranger": "SHIBU",
@@ -170,6 +183,7 @@
     },
     {
         "title": "シリウスの輝きのように",
+        "titleKana": "しりうすのかがやきのように",
         "lylicist": "松井洋平",
         "composer": "光増ハジメ（FirstCall）",
         "arranger": "光増ハジメ（FirstCall）、今野花香",
@@ -187,6 +201,7 @@
     },
     {
         "title": "Faith in Expression",
+        "titleKana": "ふぇいすいんえくすぷれっしょん",
         "lylicist": "松井洋平",
         "composer": "Ryu",
         "arranger": "Ryu",
@@ -203,6 +218,7 @@
     },
     {
         "title": "プラネタリウム・レヴュー",
+        "titleKana": "ぷらねたりうむれゔゅー",
         "lylicist": "松井洋平",
         "composer": "塩原大貴（SUPA LOVE）",
         "arranger": "塩原大貴（SUPA LOVE）",
@@ -219,6 +235,7 @@
     },
     {
         "title": "デアエ・エクス・マキナ！",
+        "titleKana": "であええくすまきな",
         "lylicist": "松井洋平",
         "composer": "新田目駿(HANO)",
         "arranger": "日直伸次(HANO)",
@@ -235,6 +252,7 @@
     },
     {
         "title": "暁星アストレーション",
+        "titleKana": "ぎょうせいあすとれーしょん",
         "lylicist": "志村真白",
         "composer": "志村真白",
         "arranger": "志村真白",
@@ -248,6 +266,7 @@
     },
     {
         "title": "幾億の星の空で",
+        "title": "いくおくのほしのそらで",
         "lylicist": "松井洋平",
         "composer": "LiCu",
         "arranger": "LiCu",
@@ -261,6 +280,7 @@
     },
     {
         "title": "純粋と奔放",
+        "titleKana": "じゅんすいとほんぽう",
         "lylicist": "松井洋平",
         "composer": "川崎智哉",
         "arranger": "川崎智哉",
@@ -274,6 +294,7 @@
     },
     {
         "title": "心という名の不可解",
+        "titleKana": "こころというなのふかかい",
         "lylicist": "まふまふ",
         "composer": "まふまふ",
         "arranger": "-",
@@ -286,6 +307,7 @@
     },
     {
         "title": "Snow halation",
+        "title": "すのーはれーしょん",
         "lylicist": "畑亜貴",
         "composer": "山田高弘",
         "arranger": "-",
@@ -303,6 +325,7 @@
     },
     {
         "title": "フォニイ",
+        "titleKana": "ふぉにい",
         "lylicist": "ツミキ",
         "composer": "ツミキ",
         "arranger": "-",
@@ -315,6 +338,7 @@
     },
     {
         "title": "怪物",
+        "titleKana": "かいぶつ",
         "lylicist": "Ayase",
         "composer": "Ayase",
         "arranger": "-",
@@ -327,6 +351,7 @@
     },
     {
         "title": "名前のない怪物",
+        "titleKana": "なまえのないかいぶつ",
         "lylicist": "ryo",
         "composer": "ryo",
         "arranger": "-",
@@ -339,6 +364,7 @@
     },
     {
         "title": "Binary Star",
+        "titleKana": "ばいなりーすたー",
         "lylicist": "志村真白",
         "composer": "志村真白",
         "arranger": "志村真白",
@@ -352,6 +378,7 @@
     },
     {
         "title": "六兆年と一夜物語",
+        "titleKana": "ろくちょうねんといちやものがたり",
         "lylicist": "kemu",
         "composer": "kemu",
         "arranger": "-",
@@ -364,6 +391,7 @@
     },
     {
         "title": "Decide",
+        "titleKana": "でぃさいど",
         "lylicist": "Giz'Mo(from Jam9)",
         "composer": "ArmySlick,Giz'Mo(from Jam9)",
         "arranger": "ArmySlick",
@@ -376,6 +404,7 @@
     },
     {
         "title": "Shiny Smily Story",
+        "titleKana": "しゃいにーすまいりーすとーりー",
         "lylicist": "金丸佳史",
         "composer": "中野領太",
         "arranger": "-",
@@ -392,6 +421,7 @@
     },
     {
         "title": "Blondie Revenge Tragedy",
+        "titleKana": "ぶろんでぃーりべんじとれーじでぃー",
         "lylicist": "松井洋平",
         "composer": "山本玲史",
         "arranger": "山本玲史",
@@ -404,6 +434,7 @@
     },
     {
         "title": "ウタカタメロディ",
+        "titleKana": "うたかためろでぃ",
         "lylicist": "常楽寺澪",
         "composer": "YUU for YOU, 常楽寺澪",
         "arranger": "YUU for YOU",
@@ -417,6 +448,7 @@
     },
     {
         "title": "変わらないもの",
+        "titleKana": "かわらないもの",
         "lylicist": "奥華子",
         "composer": "奥華子",
         "arranger": "-",
@@ -429,6 +461,7 @@
     },
     {
         "title": "情熱リベレイション",
+        "titleKana": "じょうねつりべれいしょん",
         "lylicist": "松井洋平",
         "composer": "光増ハジメ（FirstCall）",
         "arranger": "光増ハジメ（FirstCall）",
@@ -442,6 +475,7 @@
     },
     {
         "title": "Fernweh",
+        "titleKana": "ふぇるんゔぇー",
         "lylicist": "志村真白",
         "composer": "志村真白",
         "arranger": "志村真白",
@@ -454,6 +488,7 @@
     },
     {
         "title": "Realize",
+        "titleKana": "りあらいず",
         "lylicist": "篠崎あやと、橘亮祐",
         "composer": "篠崎あやと、橘亮祐",
         "arranger": "-",
@@ -466,6 +501,7 @@
     },
     {
         "title": "ANIMA",
+        "titleKana": "あにま",
         "lylicist": "毛蟹",
         "composer": "毛蟹",
         "arranger": "-",
@@ -478,6 +514,7 @@
     },
     {
         "title": "サマーバカンス☆アクトレス！",
+        "titleKana": "さまーばかんすあくとれす",
         "lylicist": "松井洋平",
         "composer": "藤井健太郎(HANO)",
         "arranger": "藤井健太郎(HANO)",
@@ -491,6 +528,7 @@
     },
     {
         "title": "魔法少女とチョコレゐト",
+        "titleKana": "まほうしょうじょとちょこれいと",
         "lylicist": "ピノキオピー",
         "composer": "ピノキオピー",
         "arranger": "-",
@@ -503,6 +541,7 @@
     },
     {
         "title": "チューリングラブ",
+        "titleKana": "ちゅーりんぐらぶ",
         "lylicist": "ナユタセイジ / ナナヲアカリ",
         "composer": "ナユタセイジ",
         "arranger": "-",
@@ -516,6 +555,7 @@
     },
     {
         "title": "てぃだんちゅ MEETS てぃんがーら！",
+        "titleKana": "てぃだんちゅみーつてぃんがーら",
         "lylicist": "松井洋平",
         "composer": "尾崎廉(SUPA LOVE)",
         "arranger": "尾崎廉(SUPA LOVE)",
@@ -528,6 +568,7 @@
     },
     {
         "title": "パーティー・ジョーク・シンデレラ",
+        "titleKana": "ぱーてぃーじょーくしんでれら",
         "lylicist": "松井洋平",
         "composer": "由良祟将",
         "arranger": "由良祟将",
@@ -540,6 +581,7 @@
     },
     {
         "title": "可愛くてごめん",
+        "titleKana": "かわいくてごめん",
         "lylicist": "shito",
         "composer": "shito",
         "arranger": "-",
@@ -552,6 +594,7 @@
     },
     {
         "title": "夏の夜空に光る雪",
+        "titleKana": "なつのよぞらにひかるゆき",
         "lylicist": "松井洋平",
         "composer": "鈴木裕明(SUPA LOVE)",
         "arranger": "鈴木裕明(SUPA LOVE)",
@@ -565,6 +608,7 @@
     },
     {
         "title": "シル・ヴ・プレジデント",
+        "titleKana": "しるゔぷれじでんと",
         "lylicist": "ナナホシ管弦楽団",
         "composer": "岩見陸",
         "arranger": "-",
@@ -578,6 +622,7 @@
     },
     {
         "title": "DAYBREAK FRONTLINE",
+        "titleKana": "でいぶれいくふろんとらいん",
         "lylicist": "Orangestar",
         "composer": "Orangestar",
         "arranger": "-",
@@ -590,6 +635,7 @@
     },
     {
         "title": "ひとりの夜のフィルモグラフィー",
+        "titleKana": "ひとりのよるのふぃるもぐらふぃー",
         "lylicist": "松井洋平",
         "composer": "YAS",
         "arranger": "YAS",
@@ -602,6 +648,7 @@
     },
     {
         "title": "Black Diary",
+        "titleKana": "ぶらっくだいありー",
         "lylicist": "松井洋平",
         "composer": "山本玲史",
         "arranger": "山本玲史",
@@ -614,6 +661,7 @@
     },
     {
         "title": "Pandastic Stage!",
+        "titleKana": "ぱんだすてぃっくすてーじ",
         "lylicist": "松井洋平",
         "composer": "志村真白",
         "arranger": "志村真白",
@@ -626,6 +674,7 @@
     },
     {
         "title": "フレーフレー・ファンファーレ！",
+        "titleKana": "ふれーふれーふぁんふぁーれ",
         "lylicist": "松井洋平",
         "composer": "EFFY",
         "arranger": "EFFY",
