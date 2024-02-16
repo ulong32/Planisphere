@@ -243,15 +243,15 @@
         },
         "nameKana": "らもーな・うぉるふ",
         "familyName": {
-            "ja": "ラモーナ",
-            "en": "Ramona"
-        },
-        "familyNameKana": "らもーな",
-        "givenName": {
             "ja": "ウォルフ",
             "en": "Wolf"
         },
-        "givenNameKana": "うぉるふ",
+        "familyNameKana": "うぉるふ",
+        "givenName": {
+            "ja": "ラモーナ",
+            "en": "Ramona"
+        },
+        "givenNameKana": "らもーな",
         "age": 17,
         "birthday": "05-23",
         "height": 163,
