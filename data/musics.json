@@ -1189,6 +1189,9 @@
         "lylicist": "ケンモチヒデフミ",
         "composer": "ケンモチヒデフミ",
         "arranger": "-",
+        "stamina": 31,
+        "bpm": -1,
+        "difficulty": [8,14,22,25,"Ⅴ"],
         "singer": [
             "千寿暦"
         ]
