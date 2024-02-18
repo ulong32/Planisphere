@@ -1202,6 +1202,9 @@
         "lylicist": "寺島拓篤",
         "composer": "上松範康(Elements Garden)",
         "arranger": "-",
+        "stamina": 25,
+        "bpm": -1,
+        "difficulty": [8,16,23,26,"Ⅴ",],
         "singer": [
             "阿岐留カミラ",
             "白丸美兎"
