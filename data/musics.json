@@ -1209,5 +1209,18 @@
             "阿岐留カミラ",
             "白丸美兎"
         ]
+    },
+    {
+        "title": "Another colony",
+        "titleKana": "あなざーころにー",
+        "lylicist": "唐沢美帆",
+        "composer": "中野領太",
+        "arranger": "-",
+        "stamina": 25,
+        "bpm": -1,
+        "difficulty": [8,15,22,25,"Ⅳ"],
+        "singer": [
+            "本巣叶羽"
+        ]
     }
 ]
