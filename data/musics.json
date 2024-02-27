@@ -1222,5 +1222,17 @@
         "singer": [
             "本巣叶羽"
         ]
+    }, {
+        "title": "賭世遊戯",
+        "titleKana": "とせゆうぎ",
+        "lylicist": "松井洋平",
+        "composer": "トミタカズキ(SUPA LOVE)",
+        "arranger": "トミタカズキ(SUPA LOVE)",
+        "stamina": 30,
+        "bpm": -1,
+        "difficulty": [9,15,22,26,"Ⅵ"],
+        "singer": [
+            "萬容"
+        ]
     }
 ]
