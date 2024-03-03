@@ -1234,5 +1234,17 @@
         "singer": [
             "萬容"
         ]
+    }, {
+        "title": "深度異症候群-Shindoi Syndrome-",
+        "titleKana": "しんどいしんどろーむ",
+        "lylicist": "松井洋平",
+        "composer": "由良祟将",
+        "arranger": "由良祟将",
+        "stamina": 26,
+        "bpm": -1,
+        "difficulty": [8,15,23,27,"Ⅴ"],
+        "singer": [
+            "烏森大黒"
+        ]
     }
 ]
