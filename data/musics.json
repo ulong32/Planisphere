@@ -1246,5 +1246,17 @@
         "singer": [
             "烏森大黒"
         ]
+    }, {
+        "title": "ヴァンパイア",
+        "titleKana": "ゔぁんぱいあ",
+        "lylicist": "DECO*27",
+        "composer": "DECO*27",
+        "arranger": "-",
+        "stamina": 28,
+        "bpm": -1,
+        "difficulty": [8,14,23,26,"Ⅴ"],
+        "singer": [
+            "筆島しぐれ"
+        ]
     }
 ]
