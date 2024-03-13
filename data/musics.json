@@ -1258,5 +1258,34 @@
         "singer": [
             "筆島しぐれ"
         ]
+    },
+    {
+        "title": "Y.Y.Y.計画!!!!",
+        "titleKana": "わいわいわいけいかく",
+        "lylicist": "烏屋茶房",
+        "composer": "烏屋茶房",
+        "arranger": "-",
+        "stamina": 36,
+        "bpm": -1,
+        "difficulty": [10,16,23,26,"Ⅴ"],
+        "singer": [
+            "リリヤ・クルトベイ",
+            "与那国緋花里",
+            "本巣叶羽"
+        ]
+    },
+    {
+        "title": "give it up to you",
+        "titleKana": "ぎぶいっとあっぷとぅーゆー",
+        "lylicist": "中土智博",
+        "composer": "中土智博",
+        "arranger": "-",
+        "stamina": 31,
+        "bpm": -1,
+        "difficulty": [9,15,22,26,"Ⅶ"],
+        "singer": [
+            "舎人仁花子",
+            "萬容"
+        ]
     }
 ]
