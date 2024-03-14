@@ -1,10 +1,13 @@
 # Planisphere
+
 Unofficial database for World Dai Star.
 
 ## About
+
 ワールドダイスターの非公式データベース（予定）
 
 ## Data Structure
+
 データベースはJSONで記入されています。
 
 値のない項目はすべて`null`で埋めます。
@@ -12,6 +15,7 @@ Unofficial database for World Dai Star.
 現在データベース構築中のため、データ構造が変化する可能性もあります。
 
 ### データ例
+
 ```js
 {
     "label": "Otori_Kokona",        //ラベル。一意の値をつける。
