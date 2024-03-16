@@ -1287,5 +1287,37 @@
             "舎人仁花子",
             "萬容"
         ]
+    }, 
+    {
+        "title": "絆はずっとGrowing Up!!!",
+        "titleKana": "きずなはずっとぐろーいんぐあっぷ",
+        "lylicist": "原田篤（Arte Refact）",
+        "composer": "原田篤（Arte Refact）",
+        "arranger": "-",
+        "stamina": 37,
+        "bpm": -1,
+        "difficulty": [7,15,21,26,"Ⅳ"],
+        "singer": [
+            "鳳ここな",
+            "カトリナ・グリーベル",
+            "静香"
+        ]
+    },
+    {
+        "title": "Transcend Lights",
+        "titleKana": "とらんせんどらいつ",
+        "lylicist": "真崎エリカ",
+        "composer": "小高光太郎",
+        "arranger": "-",
+        "stamina": 37,
+        "bpm": -1,
+        "difficulty": [8,15,22,26,"Ⅵ"],
+        "singer": [
+            "千寿暦",
+            "ラモーナ・ウォルフ",
+            "王雪",
+            "リリヤ・クルトベイ",
+            "与那国緋花里"
+        ]
     }
 ]
