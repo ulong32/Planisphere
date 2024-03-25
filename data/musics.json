@@ -586,7 +586,7 @@
         "composer": "shito",
         "arranger": "-",
         "stamina": 33,
-        "bpm": -1,
+        "bpm": 160,
         "difficulty": [8,15,21,26,"-"],
         "singer": [
             "阿岐留カミラ"
@@ -599,7 +599,7 @@
         "composer": "鈴木裕明(SUPA LOVE)",
         "arranger": "鈴木裕明(SUPA LOVE)",
         "stamina": 28,
-        "bpm": -1,
+        "bpm": 115,
         "difficulty": [7,14,21,25,"-"],
         "singer": [
             "王雪",
@@ -613,7 +613,7 @@
         "composer": "岩見陸",
         "arranger": "-",
         "stamina": 31,
-        "bpm": -1,
+        "bpm": 176,
         "difficulty": [10,17,23,28,"-"],
         "singer": [
             "阿岐留カミラ",
@@ -627,7 +627,7 @@
         "composer": "Orangestar",
         "arranger": "-",
         "stamina": 36,
-        "bpm": -1,
+        "bpm": 136,
         "difficulty": [9,14,24,26,"-"],
         "singer": [
             "流石知冴"
@@ -640,7 +640,7 @@
         "composer": "YAS",
         "arranger": "YAS",
         "stamina": 34,
-        "bpm": -1,
+        "bpm": 105,
         "difficulty": [8,12,19,24,"-"],
         "singer": [
             "白丸美兎"
@@ -653,7 +653,7 @@
         "composer": "山本玲史",
         "arranger": "山本玲史",
         "stamina": 31,
-        "bpm": -1,
+        "bpm": 138,
         "difficulty": [7,13,20,26,"-"],
         "singer": [
             "烏森大黒"
@@ -666,7 +666,7 @@
         "composer": "志村真白",
         "arranger": "志村真白",
         "stamina": 28,
-        "bpm": -1,
+        "bpm": 180,
         "difficulty": [9,15,21,25,"-"],
         "singer": [
             "柳場ぱんだ"
@@ -679,7 +679,7 @@
         "composer": "EFFY",
         "arranger": "EFFY",
         "stamina": 30,
-        "bpm": -1,
+        "bpm": 162,
         "difficulty": [8,16,21,26,"-"],
         "singer": [
             "舎人仁花子",
@@ -693,7 +693,7 @@
         "composer": "ツミキ",
         "arranger": "-",
         "stamina": 31,
-        "bpm": -1,
+        "bpm": 138,
         "difficulty": [7,16,22,26,"-"],
         "singer": [
             "萬容"
@@ -706,7 +706,7 @@
         "composer": "古河夕",
         "arranger": "古河夕",
         "stamina": 30,
-        "bpm": -1,
+        "bpm": 168,
         "difficulty": [8,16,23,28,"-"],
         "singer": [
             "千寿暦",
@@ -720,7 +720,7 @@
         "composer": "光増ハジメ（FirstCall）",
         "arranger": "光増ハジメ（FirstCall）",
         "stamina": 28,
-        "bpm": -1,
+        "bpm": 94,
         "difficulty": [6,12,19,24,"-"],
         "singer": [
             "千寿暦"
@@ -733,7 +733,7 @@
         "composer": "志村真白",
         "arranger": "志村真白",
         "stamina": 30,
-        "bpm": -1,
+        "bpm": 174,
         "difficulty": [10,17,24,27,"-"],
         "singer": [
             "柳場ぱんだ",
@@ -747,7 +747,7 @@
         "composer": "中野領太",
         "arranger": "-",
         "stamina": 29,
-        "bpm": -1,
+        "bpm": 134,
         "difficulty": [7,14,21,25,"-"],
         "singer": [
             "新妻八恵",
@@ -761,7 +761,7 @@
         "composer": "Orangestar",
         "arranger": "-",
         "stamina": 30,
-        "bpm": -1,
+        "bpm": 138,
         "difficulty": [8,14,24,27,"-"],
         "singer": [
             "王雪",
@@ -775,7 +775,7 @@
         "composer": "光増ハジメ（FirstCall）",
         "arranger": "光増ハジメ（FirstCall）",
         "stamina": 26,
-        "bpm": -1,
+        "bpm": 175,
         "difficulty": [9,15,21,26,"-"],
         "singer": [
             "千寿いろは",
@@ -792,7 +792,7 @@
         "composer": "早川博隆",
         "arranger": "柿迫ヒカル、早川博隆",
         "stamina": 36,
-        "bpm": -1,
+        "bpm": 180,
         "difficulty": [9,17,22,25,"-"],
         "singer": [
             "千寿いろは",
@@ -806,7 +806,7 @@
         "composer": "光増ハジメ（FirstCall）",
         "arranger": "光増ハジメ（FirstCall）",
         "stamina": 28,
-        "bpm": -1,
+        "bpm": 127,
         "difficulty": [8,14,22,26,"-"],
         "singer": [
             "鳳ここな"
@@ -819,7 +819,7 @@
         "composer": "LiCu（FirstCall）",
         "arranger": "LiCu（FirstCall）",
         "stamina": 27,
-        "bpm": -1,
+        "bpm": 152,
         "difficulty": [8,15,22,26,"-"],
         "singer": [
             "筆島しぐれ"
@@ -832,7 +832,7 @@
         "composer": "EFFY（FirstCall）",
         "arranger": "EFFY（FirstCall）",
         "stamina": 29,
-        "bpm": -1,
+        "bpm": 180,
         "difficulty": [7,12,21,25,"-"],
         "singer": [
             "新妻八恵",
@@ -847,7 +847,7 @@
         "composer": "光増ハジメ（FirstCall）",
         "arranger": "光増ハジメ（FirstCall）",
         "stamina": 26,
-        "bpm": -1,
+        "bpm": 178,
         "difficulty": [7,15,22,26,"-"],
         "singer": [
             "鳳ここな",
@@ -880,7 +880,7 @@
         "composer": "酒井拓也(Arte Refact) , 山本恭平(Arte Refact)",
         "arranger": "-",
         "stamina": 36,
-        "bpm": -1,
+        "bpm": 150,
         "difficulty": [8,15,24,27,"-"],
         "singer": [
             "千寿いろは",
@@ -897,7 +897,7 @@
         "composer": "EFFY（FirstCall）",
         "arranger": "EFFY（FirstCall）",
         "stamina": 26,
-        "bpm": -1,
+        "bpm": 86,
         "difficulty": [5,11,19,24,"-"],
         "singer": [
             "ラモーナ・ウォルフ"
@@ -910,7 +910,7 @@
         "composer": "EREN",
         "arranger": "-",
         "stamina": 32,
-        "bpm": -1,
+        "bpm": 180,
         "difficulty": [9,16,22,26,"-"],
         "singer": [
             "連尺野初魅"
@@ -923,7 +923,7 @@
         "composer": "山本玲史",
         "arranger": "山本玲史",
         "stamina": 26,
-        "bpm": -1,
+        "bpm": 210,
         "difficulty": [7,14,21,26,"-"],
         "singer": [
             "萬容",
@@ -937,7 +937,7 @@
         "composer": "光増ハジメ（FirstCall）",
         "arranger": "光増ハジメ（FirstCall）",
         "stamina": 26,
-        "bpm": -1,
+        "bpm": 104,
         "difficulty": [7,13,21,24,"-"],
         "singer": [
             "千寿いろは"
