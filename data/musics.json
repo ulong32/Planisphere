@@ -1319,5 +1319,44 @@
             "リリヤ・クルトベイ",
             "与那国緋花里"
         ]
+    },
+    {
+        "title": "To B-eat, or not to B-eat!",
+        "titleKana": "とぅびーとおあのっととぅびーと",
+        "lylicist": "松井洋平",
+        "composer": "光増ハジメ（FirstCall）",
+        "arranger": "光増ハジメ（FirstCall）",
+        "stamina": 27,
+        "bpm": -1,
+        "difficulty": [9,17,25,28,"Ⅵ"],
+        "singer": [
+            "流石知冴"
+        ]
+    },
+    {
+        "title": "MY FIRST ACT！",
+        "titleKana": "まいふぁーすとあくと",
+        "lylicist": "松井洋平",
+        "composer": "EFFY（FirstCall）",
+        "arranger": "EFFY（FirstCall）",
+        "stamina": 29,
+        "bpm": -1,
+        "difficulty": [8,15,22,26,"Ⅳ"],
+        "singer": [
+            "新妻八恵"
+        ]
+    },
+    {
+        "title": "強風オールバック",
+        "titleKana": "きょうふうおーるばっく",
+        "lylicist": "ゆこぴ",
+        "composer": "ゆこぴ",
+        "arranger": "-",
+        "stamina": 33,
+        "bpm": -1,
+        "difficulty": [6,13,20,25,"Ⅲ"],
+        "singer": [
+            "本巣叶羽"
+        ]
     }
 ]
